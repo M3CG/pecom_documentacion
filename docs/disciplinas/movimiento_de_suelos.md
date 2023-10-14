@@ -1,6 +1,6 @@
 # Movimiento de Suelos
 
-![limpieza](/limpieza.png)
+![limpieza](/docs/images/limpieza.png)
 
 ## Limpieza y desmonte <Badge type="warning" text="0,030 HH/m2" />
 
@@ -24,7 +24,7 @@ Se contempla la utilización de equipos simil CAT 966 y Motoniveladora.
 
 ## Excavación
 
-![excavación](/excavacion.png)
+![excavación](/docs/images/excavacion.png)
 
 ### Excavación general <Badge type="warning" text="0,03 HH/m3" />
 

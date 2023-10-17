@@ -63,7 +63,7 @@ export default defineConfig({
           modal: {
             noResultsText: 'No se encontro:',
             displayDetails: 'vista detallada',
-            backButtonTitle: 'ñfdsl',
+            backButtonTitle: 'atras',
             resetButtonTitle: 'borrar',
             footer: {
               selectText: 'seleccionar',

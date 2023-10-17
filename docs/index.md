@@ -7,7 +7,8 @@ hero:
   text: "Estandares de construcción"
   tagline: "Documentación tecnica de procesos y planificación"
   image:
-    src: ./images/Logofoto.png
+    src: /images/Logofoto.png
+    alt: Pecom
   actions:
     - theme: brand
       text: Estandares de construcción

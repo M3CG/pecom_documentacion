@@ -7,7 +7,7 @@ hero:
   text: "Estandares de construcción"
   tagline: "Documentación tecnica de procesos y planificación"
   image:
-    src: /Logofoto.png
+    src: ./images/Logofoto.png
   actions:
     - theme: brand
       text: Estandares de construcción

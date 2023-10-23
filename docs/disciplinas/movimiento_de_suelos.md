@@ -1,6 +1,6 @@
 # Movimiento de Suelos
 
-## Limpieza y desmonte <Badge type="warning" text="0,030 HH/m2" />
+## Limpieza y desmonte <Badge type="warning" text="0,03 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
@@ -79,6 +79,11 @@ Nota: Se considera una excavación para zanjas o bases chicas y que se realizar�
 Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado:
+
+| Profundidad           | HH/m3 |
+|-----------------------|-------|
+| Hasta 1,5 m           | 5,00  |
+| Desde 1,5 hasta 3 m   | 7,00  |
 
 ### Excavación para fundaciones a máquina con perfilado a mano <Badge type="warning" text="0,25 HH/m3" />
 

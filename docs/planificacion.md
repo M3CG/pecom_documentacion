@@ -1,3 +1,6 @@
+---
+    sidebar: false
+---
 # Pasos a seguir para planificadores
 
 ## Introducción

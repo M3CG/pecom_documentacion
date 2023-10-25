@@ -17,10 +17,10 @@ Las actividades de precomisionado se dividen en:
 • Remoción de todos los soportes temporales, amarres y todos los elementos de protección necesarios para el montaje, que no se hayan realizado aun.
 
 ### Representantes de vendors
-• Para equipos adquiridos por AESA o por el cliente, asegurar con los representantes o vendor que toda la instalación se ha realizado de acuerdo a las especificaciones. Incluye personal propio de asistencia a vendors.
+• Para equipos adquiridos por Pecom o por el cliente, asegurar con los representantes o vendor que toda la instalación se ha realizado de acuerdo a las especificaciones. Incluye personal propio de asistencia a vendors.
 
 ### Aprobaciones y certificaciones
-• Obtener cualquier permiso o aprobación gubernamental requerida para AESA o el Cliente.
+• Obtener cualquier permiso o aprobación gubernamental requerida para Pecom o el Cliente.
 
 ## Montaje Mecánico
 

@@ -16,7 +16,13 @@ Tareas a incluir en el relevamiento:
 
 Unidad de medida: Tonelada (Tn).
 
-#### Armado y colocación de Hierro
+|Corte y doblado | HH/tn |
+|-------------------|-------|
+|Diámetro menor a 12 mm | 60,00 |
+|Diámetro igual a 12 mm | 50,00| 
+|Diámetro mayor a 12 mm | 45,00 |
+
+#### Armado y colocación de hierro
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -32,6 +38,12 @@ Se considera:
 > - Utilización de una grúa o equipo de izaje apropiado para el montaje de las armaduras en su posición final.
 
 Unidad de medida: Tonelada (Tn).
+
+|Armado y colocación | HH/tn |
+|-------------------|-------|
+|Diámetro menor a 12 mm | 95,00 |
+|Diámetro igual a 12 mm | 80,00| 
+|Diámetro mayor a 12 mm | 70,00 |
 
 #### Colocación de malla de acero electro soldada <Badge type="warning" text="45,00 HH/Tn" />
 
@@ -77,11 +89,12 @@ Tareas a incluir en el relevamiento:
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - Revisión de acuerdo a plano del material requerido según plano.
 > - Armado de encofrado para fundaciones según las dimensiones estipuladas en los planos.
-
-> - Berenjeno1 de aristas en todos los bordes vistos y todos los materiales de fijación, amarre, apuntalamiento, apeo, andamios, cimbras, etc., necesarios para su correcta y completa ejecución.
+> - Berenjeno de aristas en todos los bordes vistos y todos los materiales de fijación, amarre, apuntalamiento, apeo, andamios, cimbras, etc., necesarios para su correcta y completa ejecución.
 > - Aplicación de productos desencofrantes en capas continuas y uniformes sobre la superficie interna del encofrado.
 > - Desencofrado y retiro.
 > - Limpieza de materiales y área de trabajo, eliminando sobrantes y cualquier otro elemento o sustancia que pueda ser perjudicial.
+
+Nota: Se llama berenjeno a una pieza de sección triangular o trapezoidal, habitualmente fabricada en madera o poliestireno expandido, colocada dentro de un encofrado con la finalidad de achaflanar la construcción resultante.
 
 Unidad de medida: metro cuadrado (m2).
 
@@ -113,10 +126,6 @@ Tareas a incluir en el relevamiento:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - El material será cualquiera que garantice las condiciones requeridas para alcanzar las tolerancias dimensionales de los cimientos y superficie de acabado.
-1
-
-Se llama berenjeno a una pieza de sección triangular o trapezoidal, habitualmente fabricada en madera o poliestireno expandido, colocada dentro de un encofrado con la finalidad de achaflanar la construcción resultante.
-
 > - Armado de encofrado según las dimensiones estipuladas en los planos, de los pedestales y columnas.
 > - Aplicación de productos desencofrantes en capas continuas y uniformes sobre la superficie interna del encofrado.
 > - Desencofrado y retiro de materiales.
@@ -175,7 +184,13 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: HH/m2.
 
-#### Encofrado deslizante
+|Encofrado tipo EFCO, DOKA o similares | HH/m2 |
+|-------------------|-------|
+|Para tabiques | 4,15 |
+|Para pedestales y columnas | 2,50| 
+|Para fundaciones | 1,80 |
+
+#### Encofrado deslizante <Badge type="warning" text="3,60 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado de referencia, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -330,7 +345,7 @@ Estándar “limpio” adoptado: 3,20 HH/m3.
 
 #### Insertos metálicos <Badge type="warning" text="150,00 HH/Tn" />
 
-Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
+Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas.
 
 Tareas a incluir en el relevamiento:
 
@@ -346,7 +361,7 @@ Estándar “limpio” adoptado: 150,00 HH/Tn.
 
 #### Pernos de anclaje <Badge type="warning" text="180,00 HH/Tn" />
 
-Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, Incluyendo el personal y herramientas necesarias para la realización de la tarea.
+Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas.
 
 Tareas a incluir en el relevamiento:
 
@@ -361,13 +376,13 @@ Estándar “limpio” adoptado: 180,00 HH/Tn.
 
 ### Elaboración de Hormigón
 
-#### Elaboración y transporte de hormigón en Planta fija. <Badge type="warning" text="2,50 HH/m3" />
+#### Elaboración y transporte de hormigón en planta fija. <Badge type="warning" text="2,50 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de elaboración de hormigón y trasporte desde planta hormigonera, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
 Tareas a incluir en el relevamiento:
 
-> - Elaboración de Hormigón en planta hormigonera.
+> - Elaboración de hormigón en planta hormigonera.
 > - Incluye operadores de planta y conductores de equipos (Camión hormigonero).
 > - Descarga de material a pie de obra.
 
@@ -385,7 +400,7 @@ Incluyendo el personal y herramientas necesarias para la realización de la tare
 
 Tareas a incluir en el relevamiento:
 
-> - Elaboración de Hormigón en planta hormigonera.
+> - Elaboración de hormigón en planta hormigonera.
 > - Incluye operadores de planta.
 
 Unidad de medida: metro cúbico (m3).
@@ -394,13 +409,13 @@ Estándar “limpio” adoptado: 1,70 HH/m3.
 
 ## Hormigón Proyectado
 
-### Hormigón Proyectado Simple <Badge type="warning" text="2,40 HH/m3" />
+### Hormigón proyectado simple <Badge type="warning" text="2,40 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
 Tareas a incluir en el relevamiento:
 
-> - Suministro de Hormigón a pie de obra.
+> - Suministro de hormigón a pie de obra.
 > - El mortero u hormigón proyectado se introduce en el lugar de uso a través de tubos o tuberías selladas resistentes a la alta presión, luego se proyecta y se compacta .
 
 Dentro del alcance se considera la utilización de una máquina de hormigón proyectado.
@@ -409,13 +424,13 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,40 HH/m3.
 
-### Hormigón Proyectado con Fibra <Badge type="warning" text="2,50 HH/m3" />
+### Hormigón proyectado con fibra <Badge type="warning" text="2,50 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
 Tareas a incluir en el relevamiento:
 
-> - Suministro de Hormigón a pie de obra.
+> - Suministro de hormigón a pie de obra.
 > - Colocación de fibras, (generalmente de acero) y generación de la mezcla.
 > - Introducción en el lugar de uso, de mortero u hormigón proyectado, a través de tubos o tuberías selladas resistentes a la alta presión.
 > - Proyección y compactación.
@@ -424,9 +439,9 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,50 HH/m3.
 
-### Hormigón Proyectado con Malla <Badge type="warning" text="3,15 HH/m3" />
+### Hormigón proyectado con malla <Badge type="warning" text="3,15 HH/m3" />
 
-Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
+Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas. necesarias para la realización de la tarea.
 
 Tareas a incluir en el relevamiento:
 
@@ -443,13 +458,12 @@ Estándar “limpio” adoptado: 3,15 HH/m3.
 
 ### Grouting cementicio <Badge type="warning" text="65,00 HH/m3" />
 
-Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
+Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas.
 
 Tareas a incluir en el relevamiento:
 
 > - Preparación del mortero a pie de obra.
 > - Fabricación y colocación de encofrado o guías necesarias para dar la forma diseñada en planos y para su perfecta contención o nivelación.
-
 > - Tratamiento de la superficie sobre la que se coloca, limpiando perfectamente de cualquier elemento o sustancia extraña.
 > - Fabricación del mortero.
 > - Vertido sobre el elemento.
@@ -469,7 +483,7 @@ Tareas a incluir en el relevamiento:
 > - Fabricación y colocación de encofrado o guías necesarias para dar la forma diseñada en planos y para su perfecta contención o nivelación.
 > - Construcción del encofrado, teniendo en cuenta las juntas.
 > - Tratamiento de la superficie sobre la que se coloca, limpiando de cualquier elemento o sustancia extraña.
-> - Vertido de grout Epoxidico sobre el elemento.
+> - Vertido de grouting epoxidico sobre el elemento.
 > - Curado de las superficies limpias.
 
 Unidad de medida: metro cúbico (m3).
@@ -509,7 +523,7 @@ Tareas a incluir en el relevamiento:
 > - Cortado de placas en taller.
 > - Colocación de bastidores.
 > - Colocación de placas.
-> - Trabajos de terminación ( Sellado de juntas, pintura, colocación de rejillas de ventilación, y tapas de inspección
+> - Trabajos de terminación (sellado de juntas, pintura, colocación de rejillas de ventilación, y tapas de inspección
 
 Nota: Para bandejas eléctricas, lo que se utiliza como barrera son paneles de fibras ignífugos a base de silicato de calcio y aditivos, reforzados con fibras especiales que las hacen estables al fuego.
 
@@ -540,6 +554,12 @@ Unidad de medida: Tonelada (Tn).
 
 Estándar “limpio” adoptado: HH/Tn.
 
+|Armado | HH/tn |
+|-------------------|-------|
+|Diámetro menor a 12 mm | 66 |
+|Diámetro igual a 12 mm | 56| 
+|Diámetro mayor a 12 mm | 49 |
+
 #### Encofrado para Premoldeados <Badge type="warning" text="2,10 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado para premoldeados, incluyendo el personal y herramientas necesarias.
@@ -558,7 +578,7 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 2,10 HH/m2.
 
-#### Colado de Hormigón para Premoldeados <Badge type="warning" text="1,80 HH/m3" />
+#### Colado de hormigón para premoldeados <Badge type="warning" text="1,80 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de colado, incluyendo el personal y herramientas necesarias.
 
@@ -572,7 +592,7 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 1,80 HH/m3.
 
-#### Insertos para Premoldeados <Badge type="warning" text="105,00 HH/Tn" />
+#### Insertos para premoldeados <Badge type="warning" text="105,00 HH/Tn" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -600,7 +620,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye ni excavación ni relleno.
 
-Unidad de medida: Metro cúbico (m3).
+Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 6,00 HH/m3.
 
@@ -613,7 +633,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 Tareas a incluir en el relevamiento:
 
 > - Colocación de material de obturador de fondo.
-> - Toma de Juntas por medio de asfalto colado.
+> - Toma de juntas por medio de asfalto colado.
 
 Dentro del alcance se considera el material a pie de obra a pie de obra.
 
@@ -640,7 +660,7 @@ Estándar “limpio” adoptado: 0,15 HH/m.
 
 ## Pilotes
 
-### Montaje de Pilotes Hincados <Badge type="warning" text="2,80 HH/m3" />
+### Montaje de pilotes hincados <Badge type="warning" text="2,80 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -730,7 +750,7 @@ Estándar “limpio” adoptado: 32,00 HH/m3.
 
 ## Pavimentos
 
-La realización de pavimentos está contemplada en los estándares: U0408 y U0413.
+La realización de pavimentos está contemplada en los apartados "Pavimentos de hormigón" y "Pavimentos bituminosos".
 
 ## Cañeros Eléctricos
 
@@ -750,11 +770,10 @@ No incluye transporte de material.
 Nota: Se supone un cañero con un perfil de 1 m2 con 1 metro de profundidad y que en su traza contiene 8 caños.
 
 Unidad de medida: metro lineal (m).
-–
 
 Estándar “limpio” adoptado: 1,95 HH/m.
 
-### Cámaras Eléctricas <Badge type="warning" text="1,65 HH/m3" />
+### Cámaras eléctricas <Badge type="warning" text="1,65 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -762,7 +781,7 @@ Tareas a incluir en el relevamiento:
 
 > - Excavación.
 > - Vertido de hormigón de limpieza.
-> - Montaje de Cámara.
+> - Montaje de cámara.
 > - Relleno y compactación para asentamiento de la cámara.
 
 Nota: Se supone cámara prefabricada de una medida estándar de 1 m3.
@@ -788,7 +807,7 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 30 HH/m3.
 
-### Demolición parcial a Maquina <Badge type="warning" text="7 HH/m3" />
+### Demolición parcial a máquina <Badge type="warning" text="7 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 

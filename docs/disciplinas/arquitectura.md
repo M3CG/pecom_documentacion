@@ -11,19 +11,14 @@ Tareas a incluir en el relevamiento:
 > - Retiro de los materiales a pie de obra.
 > - Montaje/realización del cielorraso según plano.
 
-Unidad de medida: Metros cuadrados (m2).
+Unidad de medida: metros cuadrados (m2).
 
 Estándar “limpio” adoptado: HH/m2.
 
-Cielorrasos
-
-Aplicados
-
-Suspendidos
-
-HH/m2
-3,20
-7,00
+|Cielorrasos | HH/m2 |
+|------------|-------|
+|Aplicados | 3,20 |
+|Suspendidos | 7,00 | 
 
 ### Albañilería
 
@@ -34,19 +29,41 @@ Tareas a incluir en el relevamiento:
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
 
-Unidad de medida: Metros cuadrados (m2).
+Unidad de medida: metros cuadrados (m2).
 
 Estándares “limpios” adoptados para mampostería: HH/m2:
 
-Unidad de medida: Metros cuadrados (m2).
+|Mampostería | HH/m2 |
+|------------|-------|
+|Tabiques de ladrillos comunes a la vista | 6,00 |
+|Tabiques de ladrillos ceramicos huecos a la vista | 3,00 |
+|Tabiques de bloques de cemento a la vista | 4,00 |
+|Tabiques de bloques de ladrillo común | 8,60 |
+
+Unidad de medida: metros cuadrados (m2).
 
 Estándares “limpios” adoptados para revoques: HH/m2:
 
-–
+|Revoques | HH/m2 |
+|------------|-------|
+|Jaharro interior | 6,00 |
+|Jaharro exterior | 3,00 |
+|Enlucido a la cal interior | 2,00 |
+|Enlucido a la cal exterior | 2,20 |
+|Cemento aislado | 4,40 |
 
-Unidad de medida: Metros cuadrados (m2).
+Unidad de medida: metros cuadrados (m2).
 
 Estándares “limpios” adoptados para sócalos: HH/m2:
+
+|Solado y zócalos | HH/m2 |
+|------------|-------|
+|Mosaicos | 3,00 |
+|Carámicos | 3,20 |
+|Baldosas | 1,20 |
+|Graníticos | 1,30 |
+|Solados de cemento alisado | 2,60 |
+|Zócalos de cemento alisado | 1,40 |
 
 ### Instalaciones sanitarias <Badge type="warning" text="8 HH/Un" />
 
@@ -77,25 +94,14 @@ Unidad de medida: Unidad (Un.)
 
 Estándar “limpio” adoptado: HH/Un.
 
-Puertas y ventanas
+|Puertas y ventanas |	HH/un |
+|-------------------|---------|
+|Ventanas fijas |	2,0 |
+|Ventanas deslizables |	3,0 |
+|Puertas principales simple |	1,8 |
+|Puertas principales doble |	2,5 |
+|Puerta contra incendio |  1,5 |
 
-Ventanas fijas
-
-Ventanas deslizables
-
-Puertas principales simple
-
-Puertas principales doble
-
-Puerta contra incendio
-–
-
-HH/un
-2,0
-3,0
-1,8
-2,5
-1,5
 
 ### Aislamiento/Revestimiento
 
@@ -106,25 +112,17 @@ Tareas a incluir en el relevamiento:
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
 
-Unidad de medida: Metros cuadrados (m2).
+Unidad de medida: metros cuadrados (m2).
 
 Estándares “limpios” adoptados para mampostería: HH/m2:
 
-Revestimiento y Aislante
+| Revestimiento y Aislante |	HH/m2 |
+|-------------------------|-----------|
+| Azulejos |	4,0 |
+| Cerámicos |	3,6 |
+|Aislación horizontal asfáltica o hidrófuga |	1,2 |
+| Aislación vertical sobre muro | 1,0 |
 
-Azulejos
-
-Cerámicos
-
-Aislación horizontal asfáltica o hidrófuga
-
-Aislación vertical sobre muro
-
-HH/m2
-4,0
-3,6
-1,2
-1,0
 
 ### HVAC
 
@@ -141,9 +139,14 @@ Tareas a incluir en el relevamiento:
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
 
-Unidad de medida: Metros cuadrados (m2).
+Unidad de medida: metros cuadrados (m2).
 
-Estándares “limpios” adoptados para mampostería: HH/m2
+Estándares “limpios” adoptados para mampostería: HH/m2.
+
+| Paneles |	HH/m2 |
+|---------|-----------|
+| Laterales |	1,2 |
+| Techos |	1,8 |
 
 ### Zinguería
 
@@ -151,15 +154,17 @@ Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas 
 
 Tareas a incluir en el relevamiento:
 
-> - –
-
-Retiro de los materiales a pie de obra.
-
+> - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
 
 Unidad de medida: Kilos (kg).
 
 Estándares “limpios” adoptados para mampostería: HH/kg.
+
+| Zingueria |	HH/kg |
+|---------|-----------|
+| Canaletas |	0,2 |
+| Bajantes |	0,3 |
 
 ## Demoliciones de edificios
 
@@ -175,4 +180,9 @@ Tareas a incluir en el relevamiento:
 Unidad de medida: Metro cuadrado (m2) y metro cúbico (m3).
 
 Estándares “limpios” adoptados para mampostería: HH/m2 y HH/m3.
-–
+
+| Demoliciones | UM | HH |
+|---------|--------|-----|
+| Albañilería |	m3 | 16,6 |
+| Paneles de techo | m2 | 0,5 |
+| Paneles laterales | m2 | 0,4 |

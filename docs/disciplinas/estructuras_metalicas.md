@@ -4,9 +4,7 @@
 
 ### Prearmado de Estructuras Livianas <Badge type="warning" text="28,75 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que no superen los 30 kg/m.
+Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que no superen los 30 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
@@ -21,13 +19,11 @@ Estándar “limpio” adoptado: 28,75 HH/Tn.
 
 ### Prearmado Estructuras Mediana <Badge type="warning" text="24,50 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 30 kg/m y 60 kg/m.
+Se clasifica como mediana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 30 kg/m y 60 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
 > - Traslado al área de expedición.
 
 No incluye traslado a área de clasificación intermedia.
@@ -39,13 +35,11 @@ Estándar “limpio” adoptado: 24,50 HH/Tn.
 
 ### Prearmado Estructuras Pesada <Badge type="warning" text="19,50 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 kg/m.
+Se clasifica como pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
 > - Traslado al área de expedición.
 
 No incluye traslado a área de clasificación intermedia.
@@ -56,14 +50,12 @@ Estándar “limpio” adoptado: 19,50 HH/Tn.
 
 ### Prearmado Estructuras Extra Pesada <Badge type="warning" text="16,00 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal sea mayor a
+Se clasifica como extra pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal sea mayor a
 120 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, torqueo, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
 > - Traslado al área de expedición.
 
 No incluye traslado a área de clasificación intermedia.
@@ -78,11 +70,10 @@ Estándar “limpio” adoptado: 16,00 HH/Tn.
 
 Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión
 (pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de escaleras y barandas.
-–
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, perforado, soldadura y/o abulonado, preparación para transporte (incluye soportes auxiliares) y chequeo final o liberación para montaje.
 > - Traslado al área de expedición.
 
 No incluye traslado a área de clasificación intermedia.
@@ -99,7 +90,7 @@ Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE 
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, soldadura, y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, soldadura, y chequeo final o liberación para montaje.
 
 No incluye traslado a área de clasificación intermedia.
 
@@ -109,7 +100,7 @@ Estándar “limpio” adoptado: 40,00 HH/Tn.
 
 ### Prefabricado de rejillas
 
-#### Prefabricado de rejillas
+#### Prefabricado de rejillas <Badge type="warning" text="1 HH/m2" />
 
 Incluye rejillas electrosoldadas, fabricadas en paneles cuadrangulares y curvos, galvanizados en calientes, incluyendo sus fijaciones. No se realiza distinción por tipo/peso.
 
@@ -130,7 +121,7 @@ Incluye rejillas electrosoldadas, fabricadas en paneles cuadrangulares y curvos,
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes, incluyendo todas las operaciones de Selección, presentación, marcado, corte, soldadura, abulonado, y chequeo final o liberación para montaje.
+> - Prearmado de los componentes, incluyendo todas las operaciones de selección, presentación, marcado, corte, soldadura, abulonado, y chequeo final o liberación para montaje.
 
 No incluye traslado a área de clasificación intermedia.
 
@@ -144,11 +135,11 @@ Todas las coberturas comerciales de chapa galvanizada.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, ensamblado, y chequeo final o liberación para montaje.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de selección, presentación, marcado, corte, ensamblado, y chequeo final o liberación para montaje.
 
 No incluye traslado a área de clasificación intermedia.
 
-Unidad de medida: Metro Cuadrado (m2).
+Unidad de medida: metro Cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,80 HH/m2.
 
@@ -156,122 +147,25 @@ Estándar “limpio” adoptado: 0,80 HH/m2.
 
 Composición típica de estructura metálica por categoría:
 
-Categoria
+|Categoria |	Est. Met. Pesada |	Est. Met. Mediana |	Est. Met. Liviana |	Plataformas |	Rejillas |	Escalaras |	Barandas |	Escaleras Marineras |	Metal Desplagado |
+|----------|---------------------|------------------------|-----------------------|-----------------|------------|----------------|--------------|--------------------------|--------------------|
+| Estructuras para Equipos Pesados|	34%|	25%|	13%|	-|	12%|	1%|	9%|	6%|	-|
+|Estructuras para Equipos Promedios|	13%|	34%|	21%|	-|	14%|	2%|	10%|	6%|	-|
+|Estructuras de Servicios <= 12 m de altura	|	6%|	39%|	-|	26%|	2%|	17%|	10%|	-|
+|Estructuras de Servicios > 12 m de altura|	7%|	17%|	37%|	-|	19%|	2%|	11%|	7%|	-|
+|Plataformas de tks verticales|	-|	-|	-|	32%|	28%	|	16%|	24%|	-|
+|Plataformas rectangulares|	-|	-|	-|	21%|	35%|		22%|	22%|	-|
+|Parrales y Soportes T|	14%|	45%|	41%|	-|	-|	-|	-|	-|	-|
+|Pisos elevados (flotantes)|	-|	19%|	24%|	-|	47%|	2%|	8%|	-|	-|
+|Pasarelas y largueros|	-	|	44%|	-|	19%|	13%|	24%|	-|	-|
+|Cerchas|	-|	30%|	70%|	-|	-|	-|	|-|	-|	-|
+|Torre Reticulada (Flares, etc)|	39%|	18%|	37%|	-|	-|	-|	1%|	3%|	3%|
 
-Estructuras para Equipos Pesados
 
-Estructuras para Equipos Promedios
-
-Estructuras de Servicios <= 12 m de altura
-
-Estructuras de Servicios \> 12 m de altura
-
-Plataformas de tks verticales
-
-Plataformas rectangulares
-
-Parrales y Soportes T
-
-Pisos elevados (flotantes)
-
-Pasarelas y largueros
-
-Cerchas
-
-Torre Reticulada (Flares, etc)
-
-Est. Met.
-
-Pesada
-34%
-13%
-7%
-> - -
-14%
-> - -
-> - 39%
-
-Est. Met.
-
-Mediana
-25%
-34%
-6%
-17%
-> - -
-45%
-19%
-30%
-18%
-
-Est. Met.
-
-Liviana
-13%
-21%
-39%
-37%
-> - -
-41%
-24%
-44%
-70%
-37%
-
-PlataformasRejillasEscalarasBarandas
-> - -
-> - -
-32%
-21%
-> - -
-> - -
-> - 12%
-14%
-26%
-19%
-28%
-35%
-> - 47%
-19%
-> - -1%
-2%
-2%
-2%9%
-10%
-17%
-11%
-16%
-22%
-> - 8%
-24%
-> - 1%
-> - 2%
-13%
-> - -
-
-Escaleras
-
-Metal
-
-Marineras Desplagado
-6%
-> - 6%
-> - 10%
-> - 7%
-> - 24%
-> - 22%
-> - -
-> - -
-> - -
-> - -
-> - 3%
-3%
 
 ### Montaje de estructura liviana <Badge type="warning" text="80,00 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que no superen los 30 kg/m.
+Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que no superen los 30 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Verificación e identificación de los componentes, de acuerdo a planos de montaje, en acopio a pie de obra.
@@ -286,9 +180,7 @@ Estándar “limpio” adoptado: 80,00 HH/Tn.
 
 ### Montaje de estructura mediana
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 30 kg/m y 60 kg/m.
+Se clasifica como mediana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 30 kg/m y 60 kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Verificación e identificación de los componentes, de acuerdo a planos de montaje, en acopio a pie de obra.
@@ -303,9 +195,7 @@ Estándar de referencia Argentina adoptado: 60,00 HH/Tn.
 
 ### Montaje Estructura pesada <Badge type="warning" text="40,00 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 Kg/m.
+Se clasifica como pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 Kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 > - Verificación e identificación de los componentes, de acuerdo a planos de montaje, en acopio a pie de obra.
@@ -320,9 +210,7 @@ Estándar “limpio” adoptado: 40,00 HH/Tn.
 
 ### Montaje de estructura extra pesada <Badge type="warning" text="30,00 HH/Tn" />
 
-Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada,
-
-U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal sea mayor a
+Se clasifica como extra pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal sea mayor a
 120 Kg/m.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
@@ -354,7 +242,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 85,00 HH/Tn.
 
-#### Montaje de Plataforma <Badge type="warning" text="80,00 HH/Tn" />
+#### Montaje de plataforma <Badge type="warning" text="80,00 HH/Tn" />
 
 Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión
 (pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de plataformas, sin incluir rejillas
@@ -434,7 +322,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 60,00 HH/Tn.
 
-### Montaje Material Desplegado <Badge type="warning" text="1,50 HH/m2" />
+### Montaje material desplegado <Badge type="warning" text="1,50 HH/m2" />
 
 Todas las coberturas comerciales de chapa galvanizada.
 
@@ -450,7 +338,7 @@ Estándar “limpio” adoptado: 1,50 HH/m2.
 
 ## Taller de herrería
 
-No aplica para este Manual.
+No aplica para este manual.
 
 ## Desmontaje
 
@@ -465,7 +353,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 No incluye disposición final de scrap, trabajos de recomposición de edificios, fundaciones, etc.
 
-Para los caso de desmontajes de áreas completas se adopta un 70% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
+Para los casos de desmontajes de áreas completas se adopta un 70% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
 
 ### Desmontaje para chatarra
 

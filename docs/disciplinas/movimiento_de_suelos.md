@@ -12,7 +12,7 @@ Tareas a incluir en el relevamiento:
 
 Nota: El retiro de la tierra vegetal consiste en rebajar el nivel del terreno mediante la extracción, por medios mecánicos, de la tierra vegetal para obtener una superficie regular definida por los planos donde se han de realizar posteriores excavaciones.
 
-No incluye transporte de los materiales excavados, contemplando esta actividad en el ítem U0501.
+No incluye transporte de los materiales excavados.
 
 Unidad de medida: metro cuadrado (m2).
 
@@ -32,7 +32,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye:
 
-> - Transporte de los materiales excavados, actividad contemplada en el ítem U0501.
+> - Transporte de los materiales excavados.
 > - Drenajes o agotamientos del terreno.
 
 Notas:
@@ -50,18 +50,23 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 Tareas a incluir en el relevamiento:
 
-> - Cava y aflojamiento del suelo, dejando e mismo junto a la excavación realizada. Este será manual.
+> - Cava y aflojamiento del suelo, dejando el mismo junto a la excavación realizada. Este será manual.
 > - El suelo se ha supuesto no rocoso.
 
 No incluye:
 
-> - Transporte de los materiales excavados, actividad contemplada en el ítem U0501.
+> - Transporte de los materiales excavados.
 > - Drenajes o agotamientos del terreno.
 > - Carga al camión de transporte.
 
 Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,25 HH/m3.
+
+|Excavación en roca | HH/m3 |
+|-------------------|-------|
+|Profundidad hasta 1,5 m | 5,00 |
+|Profundidad desde 1,5 m a 3,0 m | 7,00 | 
 
 ### Excavación de roca para fundaciones con compresor y martillo
 
@@ -109,7 +114,7 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 0,25 HH/m3.
 
-### Excavación general en roca a cielo abierto
+### Excavación general en roca a cielo abierto <Badge type="warning" text="0,80 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -120,7 +125,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye:
 
-> - Transporte de los materiales excavados, actividad contemplada en el ítem U0501.
+> - Transporte de los materiales excavados.
 > - Bombeo del sector que se excava, para el caso en que se registrarán filtraciones de agua.
 > - Relleno posterior de la excavación.
 
@@ -163,6 +168,11 @@ No incluye:
 Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado:
+
+|Excavación en zanja y trinchera | HH/m3 |
+|-------------------|-------|
+|Profundidad hasta 1,5 m | 2,25 |
+|Profundidad desde 1,5 m a 3,0 m | 3,25 |
 
 ## Relleno
 
@@ -329,7 +339,7 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,05 HH/m2.
 
-### Relleno para base de tanques
+### Relleno para base de tanques <Badge type="warning" text="1,25 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -381,14 +391,14 @@ Tareas a incluir en el relevamiento:
 
 No incluye:
 
-> - Provisión de la Tosca.
+> - Provisión de la tosca.
 > - Bombeo de la zona que se rellena, si hubiese filtraciones.
 
 Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 0,10 HH/m3.
 
-### Base de canto Rodado <Badge type="warning" text="0,40 HH/m3" />
+### Base de canto rodado <Badge type="warning" text="0,40 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -404,9 +414,9 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 0,40 HH/m3.
 
-Se contempla la utilización de los siguientes equipos: Motoniveladora y rodillo vibratorio.
+Se contempla la utilización de los siguientes equipos: motoniveladora y rodillo vibratorio.
 
-### SubBase suelo cemento <Badge type="warning" text="0,11 HH/m2" />
+### Subbase suelo cemento <Badge type="warning" text="0,11 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -424,7 +434,7 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,11 HH/m2.
 
-Se contempla la utilización de los siguientes equipos: Motoniveladora, rodillo neumático y regador.
+Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo neumático y regador.
 
 ### SubBase suelo cemento desde planta <Badge type="warning" text="0,05 HH/m2" />
 
@@ -435,7 +445,7 @@ Tareas a incluir en el relevamiento:
 > - Realización de la mezcla, colocación y compactación de suelo cemento, conformadas de acuerdo a las pendientes y niveles establecidos en los planos.
 > - Humectación adecuada por medio de riego.
 > - Extendido en capas de espesor 20 cm.
-> - Manejo, mezclado, extendido, conformación, compactación y acabado de la SubBase.
+> - Manejo, mezclado, extendido, conformación, compactación y acabado de la subbase.
 
 No incluye ni la provisión ni el transporte de los materiales.
 
@@ -443,9 +453,9 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,05 HH/m2.
 
-Se contempla la utilización de: Motoniveladora, rodillo neumático, regador y personal para el manejo de los silos a granel.
+Se contempla la utilización de: motoniveladora, rodillo neumático, regador y personal para el manejo de los silos a granel.
 
-### SubBase de suelo seleccionado <Badge type="warning" text="0,03 HH/m2" />
+### Subbase de suelo seleccionado <Badge type="warning" text="0,03 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -456,7 +466,7 @@ Tareas a incluir en el relevamiento:
 > - Compactación para obtener el grado requerido, por medio de equipos mecánicos.
 > - Humectación adecuada por medio de riego.
 > - Extendido en capa de espesor 20 cm.
-> - Acabado de la SubBase.
+> - Acabado de la subbase.
 
 No incluye ni la provisión ni el transporte de los materiales.
 
@@ -464,9 +474,9 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,03 HH/m2.
 
-Se contempla la utilización de los siguientes equipos: Motoniveladora, rodillo neumático y regador.
+Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo neumático y regador.
 
-### SubBase de Tosca <Badge type="warning" text="0,03 HH/m2" />
+### Subbase de tosca <Badge type="warning" text="0,03 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -477,7 +487,7 @@ Tareas a incluir en el relevamiento:
 > - Compactación para obtener el grado requerido, por medio de equipos mecánicos.
 > - Humectación adecuada por medio de riego.
 > - Extendido en capa de espesor 20 cm.
-> - Acabado de la SubBase.
+> - Acabado de la subbase.
 
 No incluye ni la provisión ni el transporte de los materiales.
 
@@ -485,7 +495,7 @@ Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: 0,03 HH/m2.
 
-Se contempla la utilización de los siguientes equipos: Motoniveladora, rodillo neumático y regador.
+Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo neumático y regador.
 
 ### Carpeta de concreto asfáltico <Badge type="warning" text="0,01 HH/m2" />
 
@@ -510,7 +520,7 @@ Se contempla la utilización de los siguientes equipos: rodillo sobre neumático
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Se consideran pavimentos rígidos (de hormigón) a los integrados por una capa (losa) de concreto de cemento que se apoya en una capa de base, la cual descansa sobre una base de suelo compactado llamda Subrasante.
+Se consideran pavimentos rígidos (de hormigón) a los integrados por una capa (losa) de concreto de cemento que se apoya en una capa de base, la cual descansa sobre una base de suelo compactado llamada subrasante.
 
 Tareas a incluir en el relevamiento:
 
@@ -533,7 +543,7 @@ Tareas a incluir en el relevamiento:
 
 > - Distribución y compactación de capa de arena de 7 cm de espesor.
 > - Colocación de los bloques de hormigón.
-> - Toma de Juntas entre los bloques por medio de asfalto colado.
+> - Toma de juntas entre los bloques por medio de asfalto colado.
 
 No se incluye la provisión de los materiales a pie de obra.
 
@@ -549,9 +559,9 @@ Tareas a incluir en el relevamiento:
 
 > - Colocación de moldes.
 > - Armadura de vinculación.
-> - Colado de Hormigón, con un espesor de 15 cm.
+> - Colado de hormigón, con un espesor de 15 cm.
 > - Perfilado de la pendiente, por medio de reglas.
-> - Toma de Juntas por medio de asfalto colado.
+> - Toma de juntas por medio de asfalto colado.
 
 Nota: El ancho considerado del cordón cuneta es de 60 cm, con un espesor de 15 cm.
 
@@ -567,8 +577,8 @@ Tareas a incluir en el relevamiento:
 
 > - Colocación de moldes.
 > - Armadura de vinculación.
-> - Colado de Hormigón, con un espesor de 15 cm de altura.
-> - Toma de Juntas por medio de asfalto colado.
+> - Colado de hormigón, con un espesor de 15 cm de altura.
+> - Toma de juntas por medio de asfalto colado.
 
 Unidad de medida: metro lineal (m).
 
@@ -596,6 +606,14 @@ No incluye:
 Unidad de medida: metro lineal (m) y metro cúbico (m3).
 
 Estándar “limpio” adoptado: HH/m y HH/m3.
+
+|Paneles     | UM | HH/m3 |
+|------------|--------|-------|
+|Cañería PVC | ml | 0,9 |
+|Cañería hormigón | ml | 1,4 |
+|Loseta de protección | m3 | 12,0 |
+|Hormigón premoldeado para embocadura | m3 | 6,0 |
+|Cama de arena | m3 | 1,3 |
 
 ### Pavimentos Bituminosos <Badge type="warning" text="2,00 HH/m2" />
 
@@ -640,6 +658,11 @@ Unidad de medida: metro lineal (m).
 
 Estándar “limpio” adoptado: HH/m.
 
+|GuardRail | HH/m |
+|-------------------|-------|
+|Anclado sobre suelo | 0,38 |
+|Anclado sobre hormigón | 1,40 | 
+
 ### Señales de tránsito <Badge type="warning" text="0,80 HH/Un" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
@@ -679,17 +702,22 @@ Unidad de medida: metros lineales (m).
 
 Estándar “limpio” adoptado: HH/m para cercos y HH/m2 para portones.
 
+|Cercos y portones | UM | HH |
+|------------------|----|----|
+|Cerco | m | 1,10 |
+|Anclado en hormigón | m | 0,70 | 
+
 Se considera un alambrado de 2 metros de altura.
 
 ### Obras de arte
 
 Los trabajos incluidos en este apartado son:
 
-•Puentes
-•Bobadas y cajas
-•Copantes y pontones
-•Vados y badenes
-•Canales de descarga
+> - Puentes
+> - Bobadas y cajas
+> - Copantes y pontones
+> - Vados y badenes
+> - Canales de descarga
 
 No se cuenta con estándares para la realización de estas actividades.
 
@@ -721,18 +749,11 @@ Para la estimación del rendimiento de transporte se deben tener en cuenta los s
 > - Factor de compactación = fc
 > - Eficiencia por hora = Ef
 
-Ciclo [min]:
-
-𝐶𝐶𝐶𝐶𝐶 [𝑚𝐶𝑚] = 𝑇𝐶 + [
-(𝑑 ∗ 2 ∗ 60 𝑚𝐶𝑚)
-] + 𝑇𝑑
-𝑣
+AGREGAR IMAGEN
 
 Rendimiento por hora de viaje ɳ [H/m3]:
 
-ɳ=
-𝐶𝐶𝐶𝐶𝐶𝐶
-(60 𝑚𝐶𝑚 ∗ 𝐸𝐸) ∗ (𝐶 ∗ 𝐸𝐶)
+AGREGAR IMAGEN
 
 Para el cálculo de HH, se debe multiplicar el Rendimiento por la cuadrilla involucrada en el transporte
 (chofer más proporción de banderilleros asociados a cada camión y cualquier otro operario involucrado en la tarea).
@@ -768,7 +789,7 @@ Tareas a incluir en el relevamiento:
 
 > - Retiro de material.
 > - Verificación y liberación de zona.
-> - Colocación de gaviones en situ.
+> - Colocación de gaviones in situ.
 > - Verificación de alineación.
 
 Unidad de medida: metro cúbico (m3).
@@ -810,7 +831,6 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 Tareas a incluir en el relevamiento:
 
 > - Perforación.
-
 > - Colocación de sistema de bombeo.
 > - Extracción de agua en lugar definido.
 > - Relleno de la perforación, en caso que aplique.
@@ -823,7 +843,7 @@ Estándar “limpio” adoptado: 0,56 HH/m3.
 
 ## Drenajes
 
-### Tuberías de Concreto <Badge type="warning" text="1,4 HH/ml" />
+### Tuberías de concreto <Badge type="warning" text="1,4 HH/ml" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -842,7 +862,7 @@ Unidad de medida: metro lineal (ml.).
 
 Estándar “limpio” adoptado: 1,4 HH/ml.
 
-### Tuberías de Hormigón Armado <Badge type="warning" text="1,4 HH/m." />
+### Tuberías de hormigón armado <Badge type="warning" text="1,4 HH/m." />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -897,7 +917,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye perforación de cañería.
 
-Nota: Se considera una profundidad de excavación de 1 mertro de profundidad, y una tubería de 2” de diámetro.
+Nota: Se considera una profundidad de excavación de 1 metro de profundidad, y una tubería de 2” de diámetro.
 
 Unidad de medida: metro lineal (m).
 
@@ -917,7 +937,7 @@ Tareas a incluir en el relevamiento:
 > - Verificación de las pendientes finales de tuberías.
 > - Relleno y compactación.
 
-Nota: Se considera una profundidad de excavación de 1 mertro de profundidad, y una tubería de 2” de diámetro.
+Nota: Se considera una profundidad de excavación de 1 metro de profundidad, y una tubería de 2” de diámetro.
 
 Unidad de medida: metro lineal (m).
 
@@ -943,7 +963,7 @@ Unidad de medida: metro lineal (m).
 
 Estándar “limpio” adoptado: 0,90 HH/m.
 
-### Tuberías de Acero al Carbono <Badge type="warning" text="1,60 HH/m." />
+### Tuberías de acero al carbono <Badge type="warning" text="1,60 HH/m." />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -963,7 +983,7 @@ Unidad de medida: metro lineal (m).
 
 Estándar “limpio” adoptado: 1,60 HH/m.
 
-### Tuberías de Hierro fundido <Badge type="warning" text="1,80 HH/m." />
+### Tuberías de hierro fundido <Badge type="warning" text="1,80 HH/m." />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -983,7 +1003,7 @@ Unidad de medida: metro lineal (m).
 
 Estándar “limpio” adoptado: 1,80 HH/m.
 
-### Tuberías de PRFV
+### Tuberías de PRFV <Badge type="warning" text="0,90 HH/m." />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -1003,14 +1023,14 @@ Unidad de medida: metro lineal (m).
 
 Estándar “limpio” adoptado: 0.90 HH/m.
 
-### Cámara de Hormigón premoldeado <Badge type="warning" text="2,00 HH/un" />
+### Cámara de hormigón premoldeado <Badge type="warning" text="2,00 HH/un" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
 Tareas a incluir en el relevamiento:
 
 > - Excavación a máquina con perfilado a mano.
-> - Colocación de Hormigón de limpieza.
+> - Colocación de hormigón de limpieza.
 > - Verificación de los niveles adecuados.
 > - Montaje de la cámara mediante equipo.
 > - Relleno y compactación.
@@ -1021,18 +1041,18 @@ Unidad de medida: unidad (unid.).
 
 Estándar “limpio” adoptado: 2,00 HH/unid.
 
-### Cámara de Hormigón <Badge type="warning" text="20,00 HH/un" />
+### Cámara de hormigón <Badge type="warning" text="20,00 HH/un" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
 Tareas a incluir en el relevamiento:
 
 > - Excavación a máquina con perfilado a mano.
-> - Colocación de Hormigón de limpieza.
+> - Colocación de hormigón de limpieza.
 > - Verificación de los niveles adecuados.
-> - Colocación de Encofrado.
-> - Corte y doblado, armado y colocación de Armadura.
-> - Colado de Hormigón.
+> - Colocación de encofrado.
+> - Corte y doblado, armado y colocación de armadura.
+> - Colado de hormigón.
 
 Nota: Se considera una cámara tipo de 1 m x 1 m x 1.5 m
 
@@ -1040,7 +1060,7 @@ Unidad de medida: unidad (unid.).
 
 Estándar “limpio” adoptado: 20,00 HH/unid.
 
-### Cubierta de Hierro fundido <Badge type="warning" text="0,8 HH/Un" />
+### Cubierta de hierro fundido <Badge type="warning" text="0,8 HH/Un" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de colocación de marco y tapa de hierro fundido, para cámaras de drenaje, incluyendo el personal y herramientas necesarias para su realización.
 
@@ -1078,13 +1098,13 @@ Unidad de medida: Metro cúbico (m3).
 
 Estándar “limpio” adoptado: No existe, se debe calcular caso por caso teniendo en cuenta los siguientes parámetros:
 
-• Equipos de maniobras disponibles para las operaciones de movimiento y de calsificación.
-• Capacidad de procesamiento de la planta de clasificación.
-• Caracteristicas del yacimiento, principalmente la proporción de los distintos elementos a clasificar.
+> - Equipos de maniobras disponibles para las operaciones de movimiento y de calsificación.
+> - Capacidad de procesamiento de la planta de clasificación.
+> - Caracteristicas del yacimiento, principalmente la proporción de los distintos elementos a clasificar.
 
 ## Anclajes, drenes e inyecciones
 
-### Perforación y Colocación de Anclajes <Badge type="warning" text="0,46 HH/m." />
+### Perforación y colocación de anclajes <Badge type="warning" text="0,46 HH/m." />
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
@@ -1166,6 +1186,12 @@ Tareas a incluir en el relevamiento:
 Unidad de medida: metro cuadrado (m2).
 
 Estándar “limpio” adoptado: HH/m2.
+
+|Demoliciones | HH/m2 |
+|-------------|-------|
+|Espesor 15 cm | 0,90 |
+|Espesor 20 cm | 1,10 | 
+|Espesor 25 cm | 1,10 |
 
 ## Paisajismo <Badge type="warning" text="0,60 HH/m2" />
 

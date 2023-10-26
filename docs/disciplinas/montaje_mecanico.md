@@ -12,7 +12,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -22,44 +22,29 @@ Estándar “limpio” adoptado:
 
 Opción a) Horas totales = HH/Tn por peso del equipo.
 
-Descripción
+|Descripción|	hh/tn|
+|-----------|--------|
+|Intercambiador hasta 2 tn|	30,00|
+|Intercambiador de 2 a 10 tn	|20,00|
+|Intercambiador mayores a 10 t|	15,00|
 
-Intercambiador hasta 2 tn
-
-Intercambiador de 2 a 10 tn
-
-Intercambiador mayores a 10 t hh/tn
-30,00
-20,00
-15,00
 
 Opción b) Horas totales = HH + HH/Tn por peso del equipo.
 
-Descripciónhhhh/tn
+|Descripción|	hh|	hh/tn|
+|-----------|-----|----------|
+|Montaje a nivel	|75	|7,50|
+|Montaje hasta 4,5 m	|80	|8,00|
+|Montaje de 4,5 a 9 m	|85	|9,00|
+|Montaje hasta 13,5	|95	|9,50|
 
-Montaje a nivel
-
-Montaje hasta 4,5 m
-
-Montaje de 4,5 a 9 m
-
-Montaje hasta 13,575
-80
-85
-957,50
-8,00
-9,00
-9,50
 
 Intercambiadores de doble tubo.
 
-Altura
-
-A Nivel
-
-En elevación hh/Sección
-40
-45
+|Altura|	hh/Sección|
+|---------|---------------|
+|A nivel|40|
+|En elevación|45|
 
 ### Torres
 
@@ -71,7 +56,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo (no incluye colocación de bandejas) o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -81,28 +66,16 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción|	hh/tn|
+|-----------|--------|
+|Columna, peso hasta 3 tn|	25,00|
+|Columna, peso desde 3 tn hasta 7,5 tn	|19,00|
+|Columna, peso desde 7,5 tn hasta 15 tn	|15,00|
+|Columna, peso desde 15 tn hasta 45 tn	|12,00|
+|Columna, peso desde 45 tn hasta 75 tn	|10,00|
+|Columna, peso desde 75 tn hasta 100 tn	|8,00|
+|Columna, peso mayor a 100 tn	|7,00|
 
-Columna, peso hasta 3 tn
-
-Columna, peso desde 3 tn hasta 7,5 tn
-
-Columna, peso desde 7,5 tn hasta 15 tn
-
-Columna, peso desde 15 tn hasta 45 tn
-
-Columna, peso desde 45 tn hasta 75 tn
-
-Columna, peso desde 75 tn hasta 100 tn
-
-Columna, peso mayor a 100 tn hh/tn
-25,00
-19,00
-15,00
-12,00
-10,00
-8,00
-7,00
 
 ### Reactores
 
@@ -125,39 +98,16 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+| Descripción|	Vertical hh/tn|	Horizontal hh/tn|
+|------------|----------------|-----------------|
+|Reactor, peso hasta 3 tn	|20,00	|25,00|
+|Reactor, peso desde 3 tn hasta 7,5 tn	|17,00|	19,00|
+|Reactor, peso desde 7,5 tn hasta 15 tn	|12,00|	15,00|
+|Reactor, peso desde 15 tn hasta 45 tn	|10,00|	12,00|
+|Reactor, peso desde 45 tn hasta 75 tn	|8,00	|10,00|
+|Reactor, peso desde 75 tn hasta 100 tn	|7,00	|8,00|
+|Reactor, peso mayor a 100 tn|	5,00	|7,00|
 
-Reactor, peso hasta 3 tn
-
-Reactor, peso desde 3 tn hasta 7,5 tn
-
-Reactor, peso desde 7,5 tn hasta 15 tn
-
-Reactor, peso desde 15 tn hasta 45 tn
-
-Reactor, peso desde 45 tn hasta 75 tn
-
-Reactor, peso desde 75 tn hasta 100 tn
-
-Reactor, peso mayor a 100 tn
-
-Vertical hh/tn
-20,00
-17,00
-12,00
-10,00
-8,00
-7,00
-5,00
-
-Horizontal hh/tn
-25,00
-19,00
-15,00
-12,00
-10,00
-8,00
-7,00
 
 ### Recipientes a presión
 
@@ -169,7 +119,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -179,39 +129,16 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción|	Vertical hh/tn|	Horizontal hh/tn|
+|-----------|-----------------|-----------------|
+|Recipiente a presión, peso hasta 3 tn	20,00	25,00|
+|Recipiente a presión, peso desde 3 tn hasta 7,5 tn	|17,00|	19,00|
+|Recipiente a presión, peso desde 7,5 tn hasta 15 tn	|12,00|	15,00|
+|Recipiente a presión, peso desde 15 tn hasta 45 tn	|10,00|	12,00|
+|Recipiente a presión, peso desde 45 tn hasta 75 tn	|8,00	|10,00|
+|Recipiente a presión, peso desde 75 tn hasta 100 tn	|7,00	|8,00|
+|Recipiente a presión, peso mayor a 100 tn	|5,00	|7,00|
 
-Recipiente a presión, peso hasta 3 tn
-
-Recipiente a presión, peso desde 3 tn hasta 7,5 tn
-
-Recipiente a presión, peso desde 7,5 tn hasta 15 tn
-
-Recipiente a presión, peso desde 15 tn hasta 45 tn
-
-Recipiente a presión, peso desde 45 tn hasta 75 tn
-
-Recipiente a presión, peso desde 75 tn hasta 100 tn
-
-Recipiente a presión, peso mayor a 100 tn
-
-Vertical hh/tn
-20,00
-17,00
-12,00
-10,00
-8,00
-7,00
-5,00
-
-Horizontal hh/tn
-25,00
-19,00
-15,00
-12,00
-10,00
-8,00
-7,00
 
 ### Filtros
 
@@ -223,7 +150,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -231,73 +158,43 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción|	Desarmado hh/tn	|Armado hh/tn|
+|-----------|-------------------|------------|
+|Filtros, peso hasta 3 tn	|75,00	|25,00|
+|Filtros, peso desde 3 tn hasta 7,5 tn	|65,00	|19,00|
+|Filtros, peso desde 7,5 tn hasta 15 tn	|60,00	|15,00|
+|Filtros, peso desde 15 tn hasta 45 tn	|55,00	|12,00|
 
-Filtros, peso hasta 3 tn
-
-Filtros, peso desde 3 tn hasta 7,5 tn
-
-Filtros, peso desde 7,5 tn hasta 15 tn
-
-Filtros, peso desde 15 tn hasta 45 tn
-
-Desarmado hh/tn
-75,00
-65,00
-60,00
-55,00
-
-Armado hh/tn
-25,00
-19,00
-15,00
-12,00
 
 Segunda unidad de medida unidad (Un).
 
-Diamtro (m)
-0,9
-1,2
-1,5
-1,8
-2,1
-2,4
-2,7
-3
-3,4
-3,7
-4
-4,3
-4,6
-4,9
-5,2
-5,5
-5,8
-6,1 hh/un
-204,00
-272,00
-323,00
-374,00
-425,00
-476,00
-527,00
-578,00
-646,00
-680,00
-731,00
-765,00
-833,00
-884,00
-935,00
-969,00
-1.020,00
-1.054,00
+|Diamtro (m)|	hh/un|
+|-----------|--------|
+|0,9|	204,00|
+|1,2|	272,00|
+|1,5|	323,00|
+|1,8|	374,00|
+|2,1|	425,00|
+|2,4|	476,00|
+|2,7|	527,00|
+|3	|578,00|
+|3,4|	646,00|
+|3,7|	680,00|
+|4|	731,00|
+|4,3|	765,00|
+|4,6|	833,00|
+|4,9|	884,00|
+|5,2|	935,00|
+|5,5|	969,00|
+|5,8|	1.020,00|
+|6,1	|1.054,00|
+
 
 ### Hornos
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Clasificación, identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -316,7 +213,6 @@ Tareas a incluir en el relevamiento:
 > - Completamiento de todos los servicios auxiliares de control y comando propios del Horno.
 (Conduits, instrumentación, etc.).
 > - Colocación del hormigón refractario Tanto gunitado como colado, con todos los trabajos complementarios (Sellos, pintura de piso, aislaciones especiales, etc.).
-
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye vestido, colocación de refractarios, ni aislación.
@@ -325,25 +221,15 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción	|hh/tn|
+|--------------|-------|
+|Horno, peso hasta 75 tn|	50,00|
+|Horno, peso desde 75 tn hasta 150 tn	|42,00|
+|Horno, peso desde 150 tn hasta 250 tn	|35,00|
+|Horno, peso desde 250 tn hasta 350 tn	|30,00|
+|Horno, peso desde 350 tn hasta 450 tn	|28,00|
+|Horno, peso mayor a 450 tn	|26,00|
 
-Horno, peso hasta 75 tn
-
-Horno, peso desde 75 tn hasta 150 tn
-
-Horno, peso desde 150 tn hasta 250 tn
-
-Horno, peso desde 250 tn hasta 350 tn
-
-Horno, peso desde 350 tn hasta 450 tn
-
-Horno, peso mayor a 450 tn hh/tn
-50,00
-42,00
-35,00
-30,00
-28,00
-26,00
 
 ### Calderas
 
@@ -355,7 +241,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -365,25 +251,15 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción|	hh/tn|
+|-----------|--------|
+|Caldera, peso hasta 75 tn|	50,00|
+|Caldera, peso desde 75 tn hasta 150 tn|	42,00|
+|Caldera, peso desde 150 tn hasta 250 tn|	35,00|
+|Caldera, peso desde 250 tn hasta 350 tn	|30,00|
+|Caldera, peso desde 350 tn hasta 450 tn	|28,00|
+|Caldera, peso mayor a 450 tn	26,00|
 
-Caldera, peso hasta 75 tn
-
-Caldera, peso desde 75 tn hasta 150 tn
-
-Caldera, peso desde 150 tn hasta 250 tn
-
-Caldera, peso desde 250 tn hasta 350 tn
-
-Caldera, peso desde 350 tn hasta 450 tn
-
-Caldera, peso mayor a 450 tn hh/tn
-50,00
-42,00
-35,00
-30,00
-28,00
-26,00
 
 ### Calentadores
 
@@ -395,7 +271,7 @@ Tareas a incluir en el relevamiento:
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
 > - Instalación del equipo en el lugar definitivo.
-> - la nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -407,14 +283,12 @@ Estándar “limpio” adoptado:
 
 Calentadores
 
-Directos
+|Calentadores|	hh/tn|
+|------------|-------|
+|Directos|	40|
+|Indirectos	40|
+|Directos e Indirectos	40|
 
-Indirectos
-
-Directos e Indirectos hh/tn
-40
-40
-40
 
 ### Flare
 
@@ -422,11 +296,11 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 Tareas a incluir en el relevamiento:
 
-> - Identificación y verificación del Flare en el área de almacenamiento, previo envío al sitio de obra.
+> - Identificación y verificación del flare en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
 > - Traslado al sitio de premontaje si es necesario realizar algún completamiento previo o al lugar del emplazamiento definitivo.
-> - Instalación del Flare en el lugar definitivo.
-> - Nivelación del Flare, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
+> - Instalación del flare en el lugar definitivo.
+> - Nivelación del flare, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -434,9 +308,9 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar limpio adoptado: Se estima caso por caso, no hay estándares de referencia.
 
-Para su estimación se debe tener en cuenta: Altura, diámetro, cantidad de tramos, cantidad de servicios, sistema de combustión.
+Para su estimación se debe tener en cuenta: altura, diámetro, cantidad de tramos, cantidad de servicios, sistema de combustión.
 
-## Montaje de Equipos Rotativos
+## Montaje de equipos rotativos
 
 ### Bombas
 
@@ -462,94 +336,39 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción |	hh/tn |
+|------------|--------|
+|Bomba, peso hasta 200 kg|	165,00|
+|Bomba, peso desde 200 kg hasta 400 kg	|135,00|
+|Bomba, peso desde 400 kg hasta 600 kg	|125,00|
+|Bomba, peso desde 600 kg hasta 800 kg	|120,00|
+|Bomba, peso desde 800 kg hasta 1250 kg	|105,00|
+|Bomba, peso desde 1250 kg hasta 1750 kg	|90,00|
+|Bomba, peso desde 1750 kg hasta 2500 kg	|75,00|
+|Bomba, peso desde 2500 kg hasta 3500 kg	|70,00|
+|Bomba, peso desde 3500 kg hasta 4500 kg	|65,00|
+|Bomba, peso desde 4500 kg hasta 5500 kg	|62,00|
+|Bomba, peso desde 5500 kg hasta 6500 kg	|58,00|
+|Bomba, peso desde 6500 kg hasta 7500 kg	|55,00|
+|Bomba, peso desde 7500 kg hasta 8500 kg	|52,00|
+|Bomba, peso mayor a 8500 kg	|50,00|
 
-Bomba, peso hasta 200 kg
-
-Bomba, peso desde 200 kg hasta 400 kg
-
-Bomba, peso desde 400 kg hasta 600 kg
-
-Bomba, peso desde 600 kg hasta 800 kg
-
-Bomba, peso desde 800 kg hasta 1250 kg
-
-Bomba, peso desde 1250 kg hasta 1750 kg
-
-Bomba, peso desde 1750 kg hasta 2500 kg
-
-Bomba, peso desde 2500 kg hasta 3500 kg
-
-Bomba, peso desde 3500 kg hasta 4500 kg
-
-Bomba, peso desde 4500 kg hasta 5500 kg
-
-Bomba, peso desde 5500 kg hasta 6500 kg
-
-Bomba, peso desde 6500 kg hasta 7500 kg
-
-Bomba, peso desde 7500 kg hasta 8500 kg
-
-Bomba, peso mayor a 8500 kg hh/tn
-165,00
-135,00
-125,00
-120,00
-105,00
-90,00
-75,00
-70,00
-65,00
-62,00
-58,00
-55,00
-52,00
-50,00
 
 Estándar de montaje por HP (2° unidad de medida).
 
-Potencia HPCentrífugas
+|Potencia HP	|Centrífugas	|Sumergibles, a engranaje o émbolo|
+|--------------|----------------|----------------------------------|
+|Bomba hasta 10 hp|	45	|25|
+|Bomba de 10 hp a 25 hp|	60|	30|
+|Bomba de 25 hp a 50 hp	|80|	40|
+|Bomba de 50 hp a 75 hp	|110|	55|
+|Bomba de 75 hp a 125 hp|	150	|75|
+|Bomba de 125 hp a 150 hp	|180|	90|
+|Bomba de 150 hp a 300 hp	|260|	130|
+|Bomba de 300 hp a 400 hp	|340|	170|
+|Bomba de 400 hp a 500 hp	|360|	180|
+|Bomba de 500 hp a 1000 hp	|480|	240|
 
-Bomba hasta 10 hp
-
-Bomba de 10 hp a 25 hp
-
-Bomba de 25 hp a 50 hp
-
-Bomba de 50 hp a 75 hp
-
-Bomba de 75 hp a 125 hp
-
-Bomba de 125 hp a 150 hp
-
-Bomba de 150 hp a 300 hp
-
-Bomba de 300 hp a 400 hp
-
-Bomba de 400 hp a 500 hp
-
-Bomba de 500 hp a 1000 hp45
-60
-80
-110
-150
-180
-260
-340
-360
-480
-
-Sumergibles, a engranaje o émbolo
-25
-30
-40
-55
-75
-90
-130
-170
-180
-240
 
 ### Compresores
 
@@ -576,89 +395,65 @@ Unidad de medida: Toneladas (Tn)
 
 Estándar “limpio” adoptado, solo para Compresores Monoblock:
 
-Compresor monoblock, peso hasta 400 kg
-
-Compresor monoblock, peso desde 500 kg hasta 1000 kg
-
-Compresor monoblock, peso desde 1000 kg hasta 2000 kg
-
-Compresor monoblock, peso mayor a 2000 kg
-150,00
-120,00
-80,00
-60,00
+|Descripción|HH/tn|
+|-----|----|
+|Compresor monoblock, peso hasta 400 kg|	150,00|
+|Compresor monoblock, peso desde 500 kg hasta 1000 kg|	120,00|
+|Compresor monoblock, peso desde 1000 kg hasta 2000 kg	|80,00|
+|Compresor monoblock, peso mayor a 2000 kg	|60,00|
 
 Unidad de medida: Potencia (HP).
 
 Estándar “limpio” adoptado para Compresores Centrífugos:
 
-Potencia HPPara turbina a gas hh/un
-1.000
-2.000
-3.000
-4.000
-5.000
-6.000
-8.000
-10.000
-15.0002.600
-3.900
-4.600
-5.200
-5.600
-6.000
-6.800
-7.600
-9.000
 
-Potencia HPPara turbina a vapor hh/un
-1.000
-2.000
-3.000
-4.000
-5.000
-6.000
-8.000
-10.000
-15.0001.600
-2.500
-2.900
-3.200
-3.500
-3.700
-4.100
-4.900
-5.600
+|Potencia HP|	Para turbina a gas hh/un|
+|--------|-------|
+|1.000	|2.600|
+|2.000	|3.900|
+|3.000	|4.600|
+|4.000	|5.200|
+|5.000	|5.600|
+|6.000	|6.000|
+|8.000	|6.800|
+|10.000	|7.600|
+|15.000|9.000|
 
-Potencia HPEléctrico hh/un
-1.000
-2.000
-3.000
-4.0001.300
-1.900
-2.300
-2.600
+
+|Potencia HP	|Para turbina a vapor hh/un|
+|-------------|-----------|
+|1.000	|1.600|
+|2.000	|2.500|
+|3.000	|2.900|
+|4.000	|3.200|
+|5.000	|3.500|
+|6.000	|3.700|
+|8.000	|4.100|
+|10.000	|4.900|
+|15.000	|5.600|
+
+|Potencia HP	|Eléctrico hh/un|
+|--------|------|
+|1.000	|1.300|
+|2.000	|1.900|
+|3.000	|2.300|
+|4.000|	2.600|
+
 
 Estándar “limpio” adoptado para Compresores Alternativos:
 
-Potencia HPEstandar hh/un
-1.000
-2.000
-3.000
-4.000
-5.000
-6.000
-8.000
-10.000
-15.000600
-1.000
-1.500
-2.000
-2.500
-3.000
-4.000
-5.000
-8.000
+|Potencia HP|	Estandar hh/un|
+|-----------|-----------------|
+|1.000	|600|
+|2.000	|1.000|
+|3.000	|1.500|
+|4.000	|2.000|
+|5.000	|2.500|
+|6.000	|3.000|
+|8.000	|4.000|
+|10.000	|5.000|
+|15.000	|8.000|
+
 
 ### Agitadores y Mezcladores
 
@@ -683,15 +478,12 @@ Unidad de medida: Potencia (HP).
 
 Estándar “limpio” adoptado:
 
-Potencia (HP)HH
+|Potencia (HP)|	HH|
+|-------------|---|
+|Hasta 10 HP|	60,00|
+|De 10 a 25 HP|	80,00|
+|De 25 a 50 HP|	105,00|
 
-Hasta 10 HP
-
-De 10 a 25 HP
-
-De 25 a 50 HP60,00
-80,00
-105,00
 
 ### Zarandas <Badge type="warning" text="35 HH/Tn" />
 
@@ -762,31 +554,17 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción	|hh/tn|
+|---------------|-----|
+|Motor, peso hasta 200 kg	|150,00|
+|Motor, peso desde 300 kg hasta 600 kg|	90,00|
+|Motor, peso desde 700 kg hasta1500 kg	|60,00|
+|Motor, peso desde 1600 kg hasta 8000 kg|	45,00|
+|Motor, peso desde 9000 kg hasta 15000 kg|	35,00|
+|Motor, peso desde 16000 kg hasta 25000 kg|	30,00|
+|Motor, peso desde 26000 kg hasta 50000 kg|	25,00|
+|Motor, peso mayor a 50000 kg|	20,00|
 
-Motor, peso hasta 200 kg
-
-Motor, peso desde 300 kg hasta 600 kg
-
-Motor, peso desde 700 kg hasta1500 kg
-
-Motor, peso desde 1600 kg hasta 8000 kg
-
-Motor, peso desde 9000 kg hasta 15000 kg
-
-Motor, peso desde 16000 kg hasta 25000 kg
-
-Motor, peso desde 26000 kg hasta 50000 kg
-
-Motor, peso mayor a 50000 kg hh/tn
-150,00
-90,00
-60,00
-45,00
-35,00
-30,00
-25,00
-20,00
 
 ### Ventiladores <Badge type="warning" text="40 HH/Tn" />
 
@@ -812,17 +590,13 @@ Estándar “limpio” adoptado: 40 HH/Tn.
 
 Estándar secundario por potencia.
 
-Potencia en HP hasta 10
+|Potencia en HP	|hh/un|
+|---------------|-----|
+|Hasta 10|	40,00|
+|Desde 10 hasta 100	|70,00|
+|Desde 100 hasta 200	|120,00|
+|Mayores a 200	|200,00|
 
-Desde 10 hasta 100
-
-Desde 100 hasta 200
-
-Mayores a 200 hh/un
-40,00
-70,00
-120,00
-200,00
 
 ### Turbina
 
@@ -873,40 +647,29 @@ Unidad de medida: Unidades (Un).
 
 Estándar “limpio” adoptado (HH/Un) para Generador accionado por turbina de gas:
 
-Potencia (KW)
-6000
-8000
-12000
-18000
-30000
+|Potencia (KW)	|HH/Un|
+|------------|--------|
+|6000	|4.000,00|
+|8000	|5.000,00|
+|12000|	6.500,00|
+|18000|	8.500,00|
+|30000|	13.500,00|
 
-HH/UNIDAD
-4.000,00
-5.000,00
-6.500,00
-8.500,00
-13.500,00
 
 Estándar “limpio” adoptado (HH/Un) para Generador accionado por motor:
 
-Potencia (KW)HH/UNIDAD
-40
-60
-80
-100
-200
-300
-400
-500
-60080,00
-90,00
-100,00
-135,00
-310,00
-400,00
-530,00
-590,00
-630,00
+|Potencia (KW)|	HH/Un|
+|-------------|------|
+|40	|80,00|
+|60	|90,00|
+|80	|100,00|
+|100	|135,00|
+|200	|310,00|
+|300	|400,00|
+|400	|530,00|
+|500	|590,00|
+|600	|630,00|
+
 
 ### Aeroenfriadores
 
@@ -933,13 +696,11 @@ Unidad de medida: Toneladas (Tn)
 
 Estándar “limpio” adoptado:
 
-Aeroenfriadores
+|Aeroenfriadores	|hh/tn|
+|---------|--------|
+|Menos de 2 Ton	|75|
+|Más de 2 Ton	|45|
 
-Menos de 2 Ton
-
-Más de 2 Ton hh/tn
-75
-45
 
 ## Tanques y Esferas
 
@@ -962,110 +723,49 @@ Unidad de medida: Toneladas (Tn) o metro cúbico (m3).
 
 Estándar “limpio” adoptado para Tanques con techo flotante:
 
-Capacidad
-500 m3
-750 m3
-1000 m3
-1500 m3
-2000 m3
-5000 m3
-7500 m3
-10000 m3
-12000 m3
-15000 m3
-20000 m3
-
-Peso Total (Tn)
-25
-32
-40
-55
-70
-150
-200
-290
-360
-400
-500
-
-HH
-1.760
-2.250
-3.000
-3.400
-4.000
-9.000
-13.300
-16.000
-21.000
-23.500
-26.000
+|Capacidad	|Peso Total (Tn)	|HH|
+|---------------|-----------------------|--|
+|500 m3	|25	|1.760|
+|750 m3	|32	|2.250|
+|1000 m3|	40	|3.000|
+|1500 m3|	55	|3.400|
+|2000 m3|	70	|4.000|
+|5000 m3|	150	|9.000|
+|7500 m3|	200	|13.300|
+|10000 m3	|290	|16.000|
+|12000 m3	|360	|21.000|
+|15000 m3	|400	|23.500|
+|20000 m3	|500	|26.000|
 
 Estándar “limpio” adoptado para Tanques con techo fijo:
 
-Capacidad
-100 m3
-150 m3
-200 m3
-300 m3
-500 m3
-750 m3
-1000 m3
-1500 m3
-2000 m3
-5000 m3
-7500 m3
-10000 m3
-12000 m3
-15000 m3
-17500 m3
-20000 m3
+|Capacidad	|Peso Total (Tn)	|HH|
+|----------|--------|--------|
+|100 m3	|7	|700|
+|150 m3	|9	|760|
+|200 m3	|10	|840|
+|300 m3	|14	|1.100|
+|500 m3	|18	|1.250|
+|750 m3	|24	|1.500|
+|1000 m3	|30	|1.800|
+|1500 m3	|41	|2.400|
+|2000 m3	|51	|2.900|
+|5000 m3	|120	|7.000|
+|7500 m3	|168	|9.500|
+|10000 m3|	235	|13.200|
+|12000 m3|	278	|15.500|
+|15000 m3|	345	|18.600|
+|17500 m3|	382	|20.000|
+|20000 m3|	440	|22.000|
 
-Peso Total (Tn)
-7
-9
-10
-14
-18
-24
-30
-41
-51
-120
-168
-235
-278
-345
-382
-440
-
-HH
-700
-760
-840
-1.100
-1.250
-1.500
-1.800
-2.400
-2.900
-7.000
-9.500
-13.200
-15.500
-18.600
-20.000
-22.000
 
 Estándar "limpio" adoptado para Tanques Sumideros y Vejigas
 
-Descripción
+|Descripción|	hh/tn|
+|---------|------|
+|Sumidero|	30|
+|Vejiga	|25|
 
-Sumidero
-
-Vejiga hh/tn
-30
-25
 
 ### Esferas
 
@@ -1098,13 +798,11 @@ Unidad de medida: toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción	|hh/tn|
+|--------------|-------|
+|Esfera a montar en gajos|	130,00|
+|Esfera prearmada a izar	|35,00|
 
-Esfera a montar en gajos
-
-Esfera prearmada a izar hh/tn
-130,00
-35,00
 
 ### Silos
 
@@ -1127,11 +825,11 @@ Estándar “limpio” adoptado:
 
 Descripción
 
-Silos
+|Descripción	|hh/tn|
+|--------|---------|
+|Silos|	60,00|
+|Silos prefabricados|	40,00|
 
-Silos prefabricados hh/tn
-60,00
-40,00
 
 ## Equipos Paquete o Skid
 
@@ -1179,159 +877,34 @@ Unidad de medida: metro lineal (ml).
 
 Estándar “limpio” adoptado:
 
-Elementos
+|Elementos	|Unid	|Ancho cinta: 450-650 mm|Ancho cinta: 660 - 1010 mm|Ancho cinta: 1020-1120 mm|Ancho cinta: 1130-1830 mm|
+|---------------|-------|-----------------------|--------------------------|-------------------------|-------------------------|
+|Motor, Reductores	|un|	180|	180|	180|	180|
+|Freno Contramarcha	|un|	36	|36	|36	|36|
+|Acoples Sistema Motriz	|un|	4|	6|	7|	24|
+|Correas Transmisión	|un|	1,8	|1,8	|1,8	|4,5|
+|Polea Motriz	|un	|40	|60	|70	|135|
+|Polea Cabeza	|un	|36	|54	|63	|126|
+|Polea Cola	|un	|27	|45|	50|	112|
+|Polea Tensora	|un	|22,5	|40	|45	|90|
+|Poleas Deflectora|	un|	18	|36|	40|	85|
+|Polín Impacto	|un	|1,917	|2,376	|2,808	|5,4|
+|Polín Carga	|un	|1,917	|2,376	|2,808|	5,4|
+|Polín Retorno	|un	|1,917	|2,376	|2,808	|5,4|
+|Polín Centrador|	un|	3,6|	5,4|	6,3|	18|
+|Correa	|ml	|0,9|	1,08	|1,26	|1,35|
+|Vulcanización	|un|	32	|32|	40|	45|
+|Raspador Retorno|	un|	12	|16	|16	|40|
+|Raspador Cabeza|	un|	14|	18|	18|	45|
+|Tensor Gravitacional|	un|	207	|243	|288	|450|
+|Tensor Tornillo	|un|	54	|63|	81|	90|
+|Faldón|	ml	|3|	3|	3|	3|
+|Chutes	|tn	|54	|54	|54	|54|
+|Protecciones|	un|	18|	19,8|	22,5|	36|
+|Cubierta	|ml|	2,6	|3,8	|4,5	|7,2|
+|Pesómetro	|un|	72	|70|	81|	144|
+|Montaje Mesa (prearmada)|	tn|	25|	25|	25|	25|
 
-Motor, Reductores
-
-Freno Contramarcha
-
-Acoples Sistema Motriz
-
-Correas Transmisión
-
-Polea Motriz
-
-Polea Cabeza
-
-Polea Cola
-
-Polea Tensora
-
-Poleas Deflectora
-
-Polín Impacto
-
-Polín Carga
-
-Polín Retorno
-
-Polín Centrador
-
-Correa
-
-Vulcanización
-
-Raspador Retorno
-
-Raspador Cabeza
-
-Tensor Gravitacional
-
-Tensor Tornillo
-
-Faldón
-
-Chutes
-
-Protecciones
-
-Cubierta
-
-Pesómetro
-
-Montaje Mesa (prearmada)
-
-Unid
-
-Ancho cinta
-450-650 mm660 - 1010 mm1020-1120 mm1130-1830 mm
-180
-36
-4
-1,8
-40
-36
-27
-22,5
-18
-1,917
-1,917
-1,917
-3,6
-0,9
-32
-12
-14
-207
-54
-3
-54
-18
-2,6
-72
-25180
-36
-6
-1,8
-60
-54
-45
-40
-36
-2,376
-2,376
-2,376
-5,4
-1,08
-32
-16
-18
-243
-63
-3
-54
-19,8
-3,8
-70
-25180
-36
-7
-1,8
-70
-63
-50
-45
-40
-2,808
-2,808
-2,808
-6,3
-1,26
-40
-16
-18
-288
-81
-3
-54
-22,5
-4,5
-81
-25180
-36
-24
-4,5
-135
-126
-112
-90
-85
-5,4
-5,4
-5,4
-18
-1,35
-45
-40
-45
-450
-90
-3
-54
-36
-7,2
-144
-25 un un un un un un un un un un un un un ml un un un un un ml tn un ml un tn
 
 ### Elevador a Cangilones
 
@@ -1351,45 +924,18 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-Altura hasta 6
+|Altura|	Capacidad de carga 50 ton/hr| Capacidad de carga 75 ton/hr| Capacidad de carga 100 ton/hr| Capacidad de carga 200 ton/hr|
+|------|------------------------------------|-----------------------------|------------------------------|------------------------------|
+|Hasta 6|	297 hh/un|	324 hh/un|	360 hh/un|	414 hh/un|
+|Desde 6 a 11 metros|	324 hh/un|	378 hh/un|	423 hh/un|	459 hh/un|
+|Desde 11 a 17 metros|	378 hh/un|	423 hh/un|	468 hh/un|	513 hh/un|
+|Desde 17 a 25 metros|	432 hh/un|	495 hh/un|	540 hh/un|	594 hh/un|
+|Desde 25 a 31 metros|	558 hh/un|	630 hh/un|	702 hh/un|	747 hh/un|
 
-Desde 6 a 11 metros
-
-Desde 11 a 17 metros
-
-Desde 17 a 25 metros
-
-Desde 25 a 31 metros
-50
-297 hh/un
-324 hh/un
-378 hh/un
-432 hh/un
-558 hh/un
-
-Capacidad de carga (ton/hr)
-75
-100
-324 hh/un
-360 hh/un
-378 hh/un
-423 hh/un
-423 hh/un
-468 hh/un
-495 hh/un
-540 hh/un
-630 hh/un
-702 hh/un
-200
-414 hh/un
-459 hh/un
-513 hh/un
-594 hh/un
-747 hh/un
 
 ## Equipos Mineros
 
-### Molinos y Trituradores
+### Molinos y trituradores
 
 Tareas a incluir en el relevamiento:
 
@@ -1413,107 +959,34 @@ Estándar “limpio” adoptado 30 HH/Tn.
 
 Otros estándares:
 
-HP hasta 5 de 6 a 7 de 8 a 10 de 11 a 20 de 21 a 40 de 41 a 60 de 61 a 80 de 81.100 de 101 a 150 de 151 a 200 de 201 a 300
+|HP	|Diente de cierra|	Martillo Oscilante|	Mandibula Oscilante|	Rodillo simple|	Giratorio|
+|------|----------------|------------------------|------------------------|-------------|-------------|
+|hasta 5|	54,00|	54,00|	99,00|	216,00|	-|
+|de 6 a 7	|63,00	|63,00	|135,00	|270,00	|-|
+|de 8 a 10|	90,00|	81,00|	171,00|	324,00|	-|
+|de 11 a 20|	108,00|	108,00|	198,00	|396,00	|513,00|
+|de 21 a 40|	144,00	|171,00|	252,00|	486,00	|576,00|
+|de 41 a 60|	-	|243,00	|324,00	|576,00|	666,00|
+|de 61 a 80|	-	|315,00	|396,00	|648,00	|792,00|
+|de 81.100|	-	|378,00	|450,00	|-	|846,00|
+|de 101 a 150|	-	|540,00	|-	|-	|972,00|
+|de 151 a 200|	-	|675,00	|-	|-	|1.080,00|
+|de 201 a 300|	-	|810,00	|-	|-	|1.170,00|
 
-Diente de cierra Martillo Oscilante andibula Oscilant Rodillo simple
-54,00
-54,00
-99,00
-216,00
-63,00
-63,00
-135,00
-270,00
-90,00
-81,00
-171,00
-324,00
-108,00
-108,00
-198,00
-396,00
-144,00
-171,00
-252,00
-486,00
-> - 243,00
-324,00
-576,00
-> - 315,00
-396,00
-648,00
-> - 378,00
-450,00
-> - -
-540,00
-> - -
-> - 675,00
-> - -
-> - 810,00
-> - -
-
-Giratorio
-> - -
-> - 513,00
-576,00
-666,00
-792,00
-846,00
-972,00
-1.080,00
-1.170,00
-
-Molino de bolas tn/hors
-1
-2
-3
-4
-6
-8
-10
-15
-20
-30
-40
-50
-1/4"1/2"3/4"1 1/2"
-1.440,00
-1.926,00
-2.286,00
-2.592,00
-3.132,00
-3.402,00
-3.852,00
-> - -
-> - -900,00
-1.206,00
-1.440,00
-1.638,00
-1.926,00
-2.106,00
-2.358,00
-2.718,00
-> - -
-> - -
-792,00
-936,00
-1.062,00
-1.260,00
-1.440,00
-1.566,00
-1.926,00
-2.106,00
-> - --
-> - 630,00
-702,00
-828,00
-936,00
-1.008,00
-1.206,00
-1.332,00
-1.566,00
-1.746,00
-1.926,00
+|tn/hors|	Molino de bolas: 1/4" |Molino de bolas: 1/2"| Molino de bolas: 3/4"| Molino de bolas: 1 1/2"|
+|------|----------------|------------------------|------------------------|-------------|
+|1	|1.440,00|	900,00|	-|	-|
+|2	|1.926,00	|1.206,00|-	|792,00	|-|
+|3	|2.286,00	|1.440,00|	936,00|	630,00|
+|4	|2.592,00	|1.638,00|	1.062,00|	702,00|
+|6	|3.132,00	|1.926,00|	1.260,00|	828,00|
+|8	|3.402,00	|2.106,00|	1.440,00|	936,00|
+|10	|3.852,00	|2.358,00|	1.566,00|	1.008,00|
+|15	|-|	2.718,00|	1.926,00|	1.206,00|
+|20	|-|	-	|2.106,00	|1.332,00|
+|30	|-	|-|	-|	1.566,00|
+|40	|-	|-	|-	|1.746,00|
+|50	|-|-|-|		1.926,00|
 
 ### Clarificadores
 
@@ -1537,22 +1010,14 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-Diametro
+|Diametro	|hh/unidad|
+|---------|----------|
+|Hasta 8 metros|	520,00|
+|Desde 8 a 15 metros|	760,00|
+|Desde 15 a 25 metros|	1.100,00|
+|Desde 25 a 35 metros|	1.800,00|
+|Desde 35 a 50 metros|	2.600,00|
 
-Hasta 8 metros
-
-Desde 8 a 15 metros
-
-Desde 15 a 25 metros
-
-Desde 25 a 35 metros
-
-Desde 35 a 50 metros hh/unidad
-520,00
-760,00
-1.100,00
-1.800,00
-2.600,00
 
 ### Espesadores
 
@@ -1576,22 +1041,14 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-Diametro
+|Diametro|	hh/unidad|
+|--------|--------|
+|Hasta 8 metros	|600,00|
+|Desde 8 a 15 metros	|850,00|
+|Desde 15 a 25 metros	|1.350,00|
+|Desde 25 a 35 metros	|2.050,00|
+|Desde 35 a 50 metros	|3.000,00|
 
-Hasta 8 metros
-
-Desde 8 a 15 metros
-
-Desde 15 a 25 metros
-
-Desde 25 a 35 metros
-
-Desde 35 a 50 metros hh/unidad
-600,00
-850,00
-1.350,00
-2.050,00
-3.000,00
 
 ### Evaporadores
 
@@ -1695,26 +1152,16 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-Descripción
+|Descripción|	hh/un|
+|---------|-----------|
+|Aspersores	|2,00|
+|Instrumentos sistema contra incendio|	ver instrumentos|
+|Hidrantes|	25,00|
+|Monitores|	ver instrumentos|
+|Mangueras con soporte pivotante|	15,00|
+|Matafuegos	|5,00|
+|Duchas de emergencia y equipo de lavado de ojos|	20,00|
 
-Aspersores
-
-Instrumentos sistema contra incendio
-
-Hidrantes
-
-Monitores
-
-Mangueras con soporte pivotante
-
-Matafuegos
-
-Duchas de emergencia y equipo de lavado de ojos hh/un
-2,00 ver instrumentos
-25,00 ver instrumentos
-15,00
-5,00
-20,00
 
 ## Equipos de Izaje
 
@@ -1741,7 +1188,15 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado (HH/Tn):
 
-### Montacargas
+|Descrición| HH/Tn|
+|--------|--------|
+|Puente grúa hasta 25 tn | 50|
+|Puente grúa desde 25 hasta 50 tn | 40|
+|Puente grúa desde 50 hasta 100 tn | 35|
+|Puente grúa mayores a 100 tn | 30|
+
+
+### Montacargas <Badge type="warning" text="60 HH/Tn" />
 
 Tareas a incluir en el relevamiento:
 

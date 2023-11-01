@@ -24,21 +24,22 @@ No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,45 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,45 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
-|Diam (pulg)/ Sch | Sch 10 | Sch 20 | Sch 30 | Sch 40 | Sch 80 | Sch 160 | Sch STD |
-|---------------- |--------|--------|--------|--------|--------|---------|---------|
-| 2 1/2           | 398,25 | -      | -      | 307,13 | 261,00 | 202,50  | 307,13  |
-| 3               | 337,50 | 286,88 | 252,00 | 238,50 | 200,25 | 174,38  | 238,50  |
-| 4               | 292,50 | 234,00 | 213,75 | 196,88 | 167,63 | 140,63  | 196,88  |
+|Diam (pulg)/ Sch|	Sch 10|	Sch 20|	Sch 30|	Sch 40|	Sch 80|	Sch 160|	Sch STD|
+|----------------|------------|-------|-------|--------|------|-------|---------|
+|2 1/2| 398,25|	-	|-	|307,13|	261,00|	202,50|	307,13|
+|3 |337,50	|286,88	|252,00	|238,50	|200,25	|174,38	|238,50|
+|4 |292,50	|234,00	|213,75	|196,88	|167,63	|140,63	|196,88|
+
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,17 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,17 HH/pulg-diam.
 
 #### Pref. AC de 6” a 8”
 *Estos estándares no aplican para UNF.
@@ -47,21 +48,21 @@ No incluye elementos bridados
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,4 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,4 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
-| Diam (pulg)/ Sch | Sch 10 | Sch 20 | Sch 30 | Sch 40 | Sch 80 | Sch 160 | Sch STD |
-|------------------|--------|--------|--------|--------|--------|---------|---------|
-| 6                | 218,50 | 184,00 | 161,00 |	154,10 | 131,10 | 115,00  | 154,10  |
-| 8                | 180,55 | 144,90 | 139,15 |	131,10 | 116,15 | 105,80  | 131,10  |
+|Diam (pulg)/ Sch	|Sch 10|	Sch 20|	Sch 30|	Sch 40	|Sch 80|	Sch 160|	Sch STD|
+|----------------------|-------|--------------|------|----------|------|----------|----------|
+|6	|218,50|	184,00	|161,00|	154,10|	131,10|	115,00|	154,10|
+|8	|180,55|	144,90	|139,15|	131,10|	116,15|	105,80|	131,10|
 
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,14 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,14 HH/pulg-diam.
 
 #### Pref. AC de 10” a 14”
 *Estos estándares no aplican para UNF.
@@ -70,21 +71,21 @@ No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,25 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,25 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
-| Diam (pulg)/ Sch | Sch 10 | Sch 20 | Sch 30 | Sch 40 | Sch 80 | Sch 160 | Sch STD |
-|------------------|--------|--------|--------|--------|--------|---------|---------|
-| 10               | 156,40 | 132,25 | 123,05 | 117,30 | 109,25 | 96,60   | 117,30  |
-| 12               | 140,30 | 124,20 | 116,15 | 111,55 | 102,35 | -       | 111,55  |
-| 14               | 124,69 | 118,75 | 115,19 | 112,81 | 100,94 | -       | 115,19  |
+|Diam (pulg)/ Sch	|Sch 10|	Sch 20|	Sch 30|	Sch 40	|Sch 80|	Sch 160|	Sch STD|
+|----------------------|-------|--------------|------|----------|------|----------|----------|
+|10	|156,40|	132,25|	123,05|	117,30|	109,25|	96,60|	117,30|
+|12	|140,30	|124,20	|116,15	|111,55	|102,35|	-	|111,55|
+|14	|124,69|	118,75|	115,19	|112,81|	100,94|	-	|115,19|
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,03 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,03 HH/pulg-diam.
 
 #### Pref. AC de 16” a mayores
 *Estos estándares no aplican para UNF.
@@ -93,7 +94,7 @@ No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,1 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,1 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -110,7 +111,7 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 0,9 HH/pulg-diam.
+> - Estándar “limpio” adoptado 0,9 HH/pulg-diam.
 
 ### Prefabricado de Acero Aleado
 
@@ -132,14 +133,13 @@ Tareas a incluir:
 Nota: En este apartado se incluyen las cañerías de Aleado de Níquel y Alloy 20.
 
 #### Pref. AA de 2 1/2” a 4”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 2,465 HH /pulg-diam.
+> - Estándar “limpio” adoptado 2,465 HH /pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -153,17 +153,16 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,989 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,989 HH/pulg-diam.
 
 #### Pref. AA de 6” a 8”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 2,38 HH/pulg-diam.
+> - Estándar “limpio” adoptado 2,38 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -177,17 +176,16 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,938 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,938 HH/pulg-diam.
 
 #### Pref. AA de 10” a 14”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 2,125 HH/pulg-diam.
+> - Estándar “limpio” adoptado 2,125 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -202,17 +200,16 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,751 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,751 HH/pulg-diam.
 
 #### Pref. AA de 16” a mayores
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,87 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,87 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -229,7 +226,7 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,53 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,53 HH/pulg-diam.
 
 ### Prefabricado de Acero Inoxidable
 
@@ -249,14 +246,13 @@ Tareas a incluir:
 > - Almacenamiento hasta el momento de montaje.
 
 #### Pref. AI de 2 1/2” a 4”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 2.03 HH/pulg-diam.
+> - Estándar “limpio” adoptado 2.03 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -271,17 +267,16 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,638 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,638 HH/pulg-diam.
 
 #### Pref. AI de 6” a 8”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,96 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,96 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -295,17 +290,16 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,14 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,14 HH/pulg-diam.
 
 #### Pref. AI de 10” a 14”
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,75 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,75 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -319,22 +313,21 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Estándar para prefabricado en taller de obra:
 
-Estándar “limpio” adoptado 1,442 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,442 HH/pulg-diam.
 
 #### Pref. AI de 16” a mayores
-
 *Estos estándares no aplican para UNF.
 
 No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 1,54 HH/pulg-diam.
+> - Estándar “limpio” adoptado 1,54 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
-| Diam (pulg)/ Sch | Sch 10 | Sch 20 | Sch 30 | Sch 40 | Sch 80 | Sch 160 | Sch STD |
-|------------------|--------|--------|--------|--------|--------|---------|---------|
+|Diam (pulg)/ Sch	|Sch 10|	Sch 20	|Sch 30|	Sch 40	|Sch 80	|Sch 160	|Sch STD|
+|-----------|------|------------|-----|------|------|----|-----|
 |16	|169,58|	|162,93|	157,94|	149,63	|-	|-	|157,94|
 |18	|166,25	|159,60	|149,63	|141,31	|-	|-	|152,95|
 |20	|161,26	|151,29	|141,31	|-	|-	|-	|151,29|
@@ -413,7 +406,7 @@ Se adoptara como estándar de construcción de cañerías de hierro los mismos e
 
 *Estos estándares no aplican para UNF.
 
-A fines de uso de este manual el estándar solo aplica para prefabricación de obra, ver tablas auxiliares para estándares de prefabricado en taller de obra (No incluye UNF).
+A fines de uso de este manual el estándar solo aplica para prefabricación de obra, ver tablas auxiliares para estándares de prefabricado en taller de obra (no incluye UNF).
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
@@ -452,7 +445,7 @@ Tareas a incluir:
 > - Corte de los caños y biselado de los extremos, según los isométricos correspondientes.
 > - Armado y punteado de los componentes hasta un tamaño compatible con el transporte y/o montaje.
 > - Soldadura completa de los accesorios de acuerdo a los procedimientos indicados en cada caso.
-> - Precalentamiento y/o tratamiento térmico (Alivio de tensiones) cuando las especificaciones técnicas lo indiquen.
+> - Precalentamiento y/o tratamiento térmico (alivio de tensiones) cuando las especificaciones técnicas lo indiquen.
 > - Verificación dimensional del isométrico prefabricado e identificación del mismo.
 > - Colocación de las protecciones que correspondan.
 > - Almacenamiento hasta el momento de montaje.
@@ -473,7 +466,7 @@ Se adoptara como estándar de construcción de cañerías dúplex los mismos est
 
 *Estos estándares no aplican para UNF.
 
-A fines de uso de este manual el estándar solo aplica para prefabricación de obra, ver tablas auxiliares para estándares de prefabricado en taller de obra (No incluye UNF).
+A fines de uso de este manual el estándar solo aplica para prefabricación de obra, ver tablas auxiliares para estándares de prefabricado en taller de obra (no incluye UNF).
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
@@ -540,7 +533,7 @@ Tareas a incluir:
 > - Corte de los caños y biselado de los extremos, según los isométricos correspondientes.
 > - Armado y punteado de los componentes hasta un tamaño compatible con el transporte y/o montaje.
 > - Soldadura completa de los accesorios de acuerdo a los procedimientos indicados en cada caso.
-> - Precalentamiento y/o tratamiento térmico (Alivio de tensiones) cuando las especificaciones técnicas lo indiquen.
+> - Precalentamiento y/o tratamiento térmico (alivio de tensiones) cuando las especificaciones técnicas lo indiquen.
 > - Verificación dimensional del isométrico prefabricado e identificación del mismo.
 > - Colocación de las protecciones que correspondan.
 > - Almacenamiento hasta el momento de montaje.
@@ -578,7 +571,7 @@ No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 3,45 HH/pulg-diam.
+> - Estándar “limpio” adoptado 3,45 HH/pulg-diam.
 
 Estándar para prefabricado en taller de obra:
 
@@ -607,7 +600,7 @@ No incluye elementos bridados.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 4,14 HH/pulg-diam.
+> - Estándar “limpio” adoptado 4,14 HH/pulg-diam.
 
 Estándar para prefabricado en taller de obra:
 
@@ -636,7 +629,7 @@ No incluye elementos bridados.
 
 Unidad de medida: pulg-diam.
 
-Estándar “limpio” adoptado 11,04 HH/pulg-diam.
+> - Estándar “limpio” adoptado 11,04 HH/pulg-diam.
 
 Estándar para prefabricado en taller de obra:
 
@@ -658,11 +651,11 @@ Unidad de medida: Costura
 
 Estándar “limpio” adoptado (HH/Costura).
 
-Estándar por Resistencia eléctrica o inducción 3,5 HH/Costura.
+> - Estándar por Resistencia eléctrica o inducción 3,5 HH/Costura.
 
 Estándar de tratamiento térmico por horno, se asume que para un horno de capacidad entre 4000/5000 kg se requieren 40 horas por tratamiento.
 
-### Ensayos no destructivos
+### Ensayos No Destructivos
 
 Se considera como ensayo no destructivo (NDT) a Rayos X, ultrasonidos, ensayos de tinta penetrante, inspección por partículas magnéticas.
 
@@ -680,21 +673,21 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado (HH/Un).
 
-Estándar NDT por radiografía 2 HH/Un.
+> - Estándar NDT por radiografía 2 HH/Un.
 
 Estándar NDT por tinta penetrante: (HH/Un):
 
-| Φ [Pulg]	|hh/un|
-|------------|----------|
-| De 1/4" a 1"|	0,39|
-| Mayores	a 1" a 2"|	0,46|
-| Mayores	a 3" a 4"|	0,52|
-| Mayores	a 5" a 6"|	0,85|
-| Mayores	a 8" a 10"|	1,04|
-| Mayores	a 12" a 18"|	1,30|
-| Mayores	a 20" a 26"|	1,56|
-| Mayores	a 28" a 32"|	1,76|
-| Mayores	a 34" a 36"|	1,82|
+|Φ [Pulg]	|hh/un|
+|-----------|----------|
+|De 1/4" a 1"|	0,39|
+|Mayores	a 1" a 2"|	0,46|
+|Mayores	a 3" a 4"|	0,52|
+|Mayores	a 5" a 6"|	0,85|
+|Mayores	a 8" a 10"|	1,04|
+|Mayores	a 12" a 18"|	1,30|
+|Mayores	a 20" a 26"|	1,56|
+|Mayores	a 28" a 32"|	1,76|
+|Mayores	a 34" a 36"|	1,82|
 
 Estándar NDT por Ultrasonido (HH/Un):
 
@@ -742,7 +735,7 @@ Tareas a incluir en el relevamiento:
 
 > - Preparación y colocación de soportes auxiliares si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento, y piezas especiales prefabricadas en taller
-(cuadros típicos de bypass para válvulas reguladoras, trampas de vapor, colectores de condensado), y traslado al sitio de instalación.
+(cuadros típicos de bypass para válvulas reguladoras, trampas de vapor, colectores de condensado), y traslado al sitio de instalación).
 > - Replanteo de los trazados y corte de los componentes.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Instalación de las cañerías con sus accesorios en el lugar disponible.
@@ -756,7 +749,7 @@ No incluye traslado a pie de obra.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 5,8 HH/pulg-diam.
+> - Estándar “limpio” adoptado 5,8 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -784,13 +777,14 @@ Se debe tomar el diámetro del objeto, adoptar un elemento base (válvula soldad
 |Disco de ruptura	|100%|
 |Filtros	|120%|
 
+
 #### Montaje AC de 2 1/2” a 4”
 
 No incluye traslado a pie de obra.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 5,6 HH/pulg-diam.
+> - Estándar “limpio” adoptado 5,6 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -808,7 +802,7 @@ No incluye traslado a pie de obra.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 5,0 HH/pulg-diam.
+> - Estándar “limpio” adoptado 5,0 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -826,7 +820,7 @@ No incluye traslado a pie de obra.
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 4,4 HH/pulg-diam.
+> - Estándar “limpio” adoptado 4,4 HH/pulg-diam.
 
 Estándar de prefabricado por TN (2° unidad de medida):
 
@@ -845,7 +839,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 4,1 HH/pulg-diam
+> - Estándar “limpio” adoptado 4,1 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -887,7 +881,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 9,86 HH/pulg-diam
+> - Estándar “limpio” adoptado 9,86 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -908,7 +902,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 9,52 /pulg-diam
+> - Estándar “limpio” adoptado 9,52 /pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -927,7 +921,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 8,5 HH/pulg-diam
+> - Estándar “limpio” adoptado 8,5 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -945,7 +939,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 7,48 HH/pulg-diam
+> - Estándar “limpio” adoptado 7,48 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -964,7 +958,7 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 6,97 HH/pulg-diam
+> - Estándar “limpio” adoptado 6,97 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
@@ -1004,11 +998,11 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 8,12 HH/pulg-diam
+> - Estándar “limpio” adoptado 8,12 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
-|Diam (pulg)/ Sch	|Sch 10|	Sch 20	|Sch 30|	Sch 40	|Sch 80|	Sch 160|	Sch STD|
+|Diam (pulg)/ SCH	|Sch 10|	Sch 20	|Sch 30|	Sch 40	|Sch 80|	Sch 160|	Sch STD|
 |-----------------------|------|----------------|-------|-------------|---------|------------|------------|
 |1/2	|2.332,58	|-	|-	|2.099,48	|1.962,45	|1.842,75	|2.099,48|
 |3/4	|2.105,78	|-	|-	|1.779,75	|1.615,95	|1.389,15	|1.852,20|
@@ -1025,14 +1019,15 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 7,84 HH/pulg-diam
+> - Estándar “limpio” adoptado 7,84 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
-Diam (pulg)/ Sch	Sch 10	Sch 20	Sch 30	Sch 40	Sch 80	Sch 160	Sch STD
-2 1/2	778,84	619,76	583,54	532,35	416,59	337,05	532,35
-3	677,25	538,65	507,15	463,05	362,25	292,95	463,05
-4	538,65	431,55	387,45	352,80	283,50	214,20	352,80
+|Diam (pulg)/ SCH|	Sch 10	|Sch 20|	Sch 30|	Sch 40|	Sch 80|	Sch 160|	Sch STD|
+|---------------|---------------|------|--------------|--------|------|--------|---------------|
+|2 1/2	|778,84	|619,76|	583,54|	532,35|	416,59|	337,05	|532,35|
+|3	|677,25	|538,65|	507,15|	463,05|	362,25|	292,95	|463,05|
+|4	|538,65	|431,55|	387,45|	352,80|	283,50|	214,20	|352,80|
 
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
@@ -1041,13 +1036,14 @@ Estos estándares son aplicables a refinería con una proporción de 55% de cañ
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1056,13 +1052,14 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 7,0 HH/pulg-diam
+> - Estándar “limpio” adoptado 7,0 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
-Diam (pulg)/ Sch	Sch 10	Sch 20	Sch 30	Sch 40	Sch 80	Sch 160	Sch STD
-6	418,60	338,10	283,36	264,04	196,42	151,34	264,04
-8	331,66	235,06	218,96	196,42	154,56	144,90	196,42
+|Diam (pulg)/ SCH|	Sch 10|	Sch 20|	Sch 30|	Sch 40|	Sch 80|	Sch 160|	SCH STD|
+|----------------|------------|-------|-------|-------|-------|--------|---------------|
+|6	|418,60	|338,10	|283,36|	264,04|	196,42|	151,34|	264,04|
+|8	|331,66	|235,06	|218,96|	196,42|	154,56|	144,90|	196,42|
 
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
@@ -1073,15 +1070,16 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 6,16 HH/pulg-diam
+> - Estándar “limpio” adoptado 6,16 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
 
-Diam (pulg)/ Sch	Sch 10	Sch 20	Sch 30	Sch 40	Sch 80	Sch 160	Sch STD
-10	264,04	199,64	173,88	157,78	144,90	-	157,78
-12	222,18	177,10	154,56	148,12	-	-	148,12
-14	172,90	156,28	149,63	149,63	-	-	149,63
+|Diam (pulg)/ SCH	|Sch 10|	Sch 20|	Sch 30	|Sch 40	|Sch 80	|Sch 160	|SCH STD|
+|-----------------------|------|--------------|---------|-------|-------|---------------|-------|
+|10	|264,04	|199,64	|173,88|	157,78|	144,90	|-	|157,78|
+|12	|222,18	|177,10	|154,56|	148,12|	-	|-	|148,12|
+|14	|172,90	|156,28	|149,63|	149,63|	-	|-	|149,63|
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
 
@@ -1091,35 +1089,37 @@ No incluye traslado a pie de obra
 
 Unidad de medida: Unidad (pulg-diam).
 
-Estándar “limpio” adoptado 5,74 HH/pulg-diam
+> - Estándar “limpio” adoptado 5,74 HH/pulg-diam
 
 Estándar de prefabricado por TN (2° unidad de medida)
 
-Diam (pulg)/ Sch	Sch 10	Sch 20	Sch 30	Sch 40	Sch 80	Sch 160	Sch STD
-16	166,25	152,95	149,63	-	-	-	149,63
-18	156,28	149,63	-	-	-	-	149,63
-20	152,95	149,63	-	-	-	-	149,63
-22	154,35	-	-	-	-	-	149,63
-24	154,35	-	-	-	-	-	149,63
-30	154,35	-	-	-	-	-	149,63
+|Diam (pulg)/ SCH	|Sch 10	|Sch 20	|Sch 30	|Sch 40	|Sch 80	|Sch 160	|Sch STD|
+|-----------------------|-------|-------|-------|-------|-------|---------------|-------|
+|16	|166,25	|152,95	|149,63	|-	|-	|-	|149,63|
+|18	|156,28	|149,63	|-	|-	|-	|-	|149,63|
+|20	|152,95	|149,63	|-	|-	|-	|-	|149,63|
+|22	|154,35	|-	|-	|-	|-	|-	|149,63|
+|24	|154,35	|-	|-	|-	|-	|-	|149,63|
+|30	|154,35	|-	|-	|-	|-	|-	|149,63|
 
 Estos estándares son aplicables a refinería con una proporción de 55% de caño, 20% de accesorios y 25% de válvulas.
 
-### Montaje de Cañerías Metálicas especiales
+### Montaje de cañerías metálicas especiales
 
-#### Montaje de Acero Galvanizado
+#### Montaje de acero galvanizado <Badge type="warning" text="6,08 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías de acero galvanizado los mismos estándares de acero al carbono con un factor de corrección del 1,1.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1130,19 +1130,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 6,08 HH/pulg-diam
 
-#### Montaje de Aleación de Cobre
+#### Montaje de aleación de cobre <Badge type="warning" text="10,48 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías de aleación de cobre los mismos estándares de acero al carbono con un factor de corrección del 1,9.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1153,19 +1154,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 10,48 HH/pulg-diam
 
-#### Montaje de Cañería de Hierro
+#### Montaje de cañería de hierro <Badge type="warning" text="5,52 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías de hierro los mismos estándares de acero al carbono.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1176,19 +1178,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 5,52 HH/pulg-diam
 
-#### Montaje de Bronce
+#### Montaje de bronce <Badge type="warning" text="11,04 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías de bronce los mismos estándares de acero al carbono con un factor de corrección del 2
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1199,19 +1202,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 11,04 HH/pulg-diam
 
-#### Montaje de Cañería Dúplex
+#### Montaje de cañería Dúplex <Badge type="warning" text="13,8 HH/pulg-diam" />
 
-Se adoptara como estándar de construcción de cañerías duplex los mismos estándares de acero al carbono con un factor de corrección del 2,5
+Se adoptará como estándar de construcción de cañerías duplex los mismos estándares de acero al carbono con un factor de corrección del 2,5
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1222,20 +1226,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 13,8 HH/pulg-diam
 
-#### Montaje de Cañería Victaulic
+#### Montaje de cañería Victaulic <Badge type="warning" text="4,14 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías Victaulic los mismos estándares de acero al carbono con un factor de corrección del 0,75.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
-
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Corte de caño y ranurado de los extremos (si aplica), según los isométricos correspondientes.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Colocación y ajuste de acople Victaulic entre caños y accesorios de acuerdo a los procedimientos indicados en cada caso.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1246,19 +1250,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 4,14 HH/pulg-diam
 
-#### Montaje de Cañería Monel
+#### Montaje de cañería Monel <Badge type="warning" text="13,8 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías Monel los mismos estándares de acero al carbono con un factor de corrección del 2,50
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1269,7 +1274,7 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 13,8 HH/pulg-diam
 
-#### Montaje de Cañería Inconel
+#### Montaje de cañería Inconel <Badge type="warning" text="13,8 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías Inconel los mismos estándares de acero al carbono con un factor de corrección del 2,50.
 
@@ -1281,7 +1286,8 @@ Tareas a incluir en el relevamiento:
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1292,19 +1298,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 13,8 HH/pulg-diam.
 
-#### Montaje de Cañería Titaniun
+#### Montaje de cañería Titaniun <Badge type="warning" text="16,56 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías de Titaniun los mismos estándares de acero al carbono con un factor de corrección del 3,00.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1315,19 +1322,20 @@ Unidad de medida: Unidad (pulg-diam).
 
 Estándar “limpio” adoptado 16,56 HH/pulg-diam.
 
-#### Montaje de Cañería Aluminio
+#### Montaje de cañería Aluminio <Badge type="warning" text="11,04 HH/pulg-diam" />
 
 Se adoptara como estándar de construcción de cañerías Aluminio los mismos estándares de acero al carbono con un factor de corrección del 8,00.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra, y/o prefabricados del taller de prefabricado y traslado al sitio de instalación.
 > - Presentación de las cañerías y/o prefabricados en el lugar definitivo.
 > - Ensamble de todos los componentes de la línea, realizando los cortes y biselados correspondientes a los tramos de ajuste.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Completamiento de la soldadura.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1338,19 +1346,20 @@ Unidad de medida: pulg-diam.
 
 Estándar “limpio” adoptado 11,04 HH/pulg-diam.
 
-### Montaje de Cañerías de Polímero
+### Montaje de cañerías de Polímero
 
-#### Montaje de Cañería de Plástico Reforzado con Fibra de Vidrio (PRFV)
+#### Montaje de cañería de Plástico Reforzado con Fibra de Vidrio (PRFV)
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra.
 > - Presentación de las cañerías en el lugar definitivo.
 > - Corte de los caños y biselado de los extremos (si aplica), según los isométricos correspondientes.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Abulonado, acoplamientos metálicos, unión por laminación química de los accesorios o caños de acuerdo a los procedimientos indicados en cada caso.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1361,38 +1370,41 @@ Unidad de medida: Unidad (Un) y metros (m).
 
 Estándar “limpio” adoptado (HH/Un) y (HH/m).
 
-Diam	Caño (m)	Accesorios (u)	Brida (u)	Tee (u)	Valvula
-1/2"	1,28	3,36	2,88	5,04	3,04
-3/4"	1,28	3,36	2,88	5,04	3,04
-1"	1,44	4,00	3,52	6,00	3,68
-1 1/2"	1,60	4,96	4,16	7,44	4,64
-2"	1,60	5,76	4,64	8,64	4,80
-2 1/2"	2,08	7,52	5,44	11,28	4,96
-3"	2,56	8,32	6,08	12,48	5,76
-4"	3,04	10,40	7,52	15,60	7,36
-6"	4,64	14,24	9,76	21,36	8,96
-8"	6,08	19,20	12,32	28,80	10,56
-10"	7,52	23,68	16,48	35,52	16,48
-12"	8,16	24,96	18,24	37,44	18,56
-14"	9,60	29,60	20,00	44,40	24,16
-16"	10,40	32,80	23,20	49,20	29,12
-18"	9,92	41,60	26,56	62,40	37,44
-20"	12,00	44,00	29,60	65,60	43,68
-24"	14,40	47,36	35,20	71,04	58,24
-30"	17,92	56,00	41,60	84,00	79,04
-36"	22,40	67,20	51,20	100,80	104,00
+|Diam	|Caño (m)|	Accesorios (u)	|Brida (u)	|Tee (u)|	Valvula|
+|-------|--------|----------------------|---------------|-------|--------------|
+|1/2"	|1,28	|3,36	|2,88	|5,04	|3,04|
+|3/4"	|1,28	|3,36	|2,88	|5,04	|3,04|
+|1"	|1,44	|4,00	|3,52	|6,00	|3,68|
+|1 1/2"	|1,60	|4,96	|4,16	|7,44	|4,64|
+|2"	|1,60	|5,76	|4,64	|8,64	|4,80|
+|2 1/2"	|2,08	|7,52	|5,44	|11,28	|4,96|
+|3"	|2,56	|8,32	|6,08	|12,48	|5,76|
+|4"	|3,04	|10,40	|7,52	|15,60	|7,36|
+|6"	|4,64	|14,24	|9,76	|21,36	|8,96|
+|8"	|6,08	|19,20	|12,32	|28,80	|10,56|
+|10"	|7,52	|23,68	|16,48	|35,52	|16,48|
+|12"	|8,16	|24,96	|18,24	|37,44	|18,56|
+|14"	|9,60	|29,60	|20,00	|44,40	|24,16|
+|16"	|10,40	|32,80	|23,20	|49,20	|29,12|
+|18"	|9,92	|41,60	|26,56	|62,40	|37,44|
+|20"	|12,00	|44,00	|29,60	|65,60	|43,68|
+|24"	|14,40	|47,36	|35,20	|71,04	|58,24|
+|30"	|17,92	|56,00	|41,60	|84,00	|79,04|
+|36"	|22,40	|67,20	|51,20	|100,80	|104,00|
 
-#### Montaje de Cañería de Polietileno de Alta Densidad (PEAD/HDPE)
+
+#### Montaje de cañería de Polietileno de Alta Densidad (PEAD/HDPE)
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra.
 > - Presentación de las cañerías en el lugar definitivo.
 > - Corte de los caños y biselado de los extremos (si aplica), según los isométricos correspondientes.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Abolunado, fusión (térmica o eléctrica), unión victaulic, unión por compresión de los accesorios y caños de acuerdo a los procedimientos indicados en cada caso.
 > - Reconstrucción de barrera química de cañería (si aplica).
 > - Verificación final.
@@ -1404,40 +1416,42 @@ Unidad de medida: Unidad (Un) y metros (m).
 
 Estándar “limpio” adoptado (HH/Un) y (HH/m):
 
-| Diam   | Caño (m) | Accesorios (u) | Brida (u) | Tee (u) | Valvula |
-|--------|----------|----------------|-----------|---------|---------|
-| 1/2"   | 1,28     | 3,36           | 2,88      | 5,04    | 3,04    |
-| 3/4"   | 1,28     | 3,36           | 2,88      | 5,04    | 3,04    |
-| 1"     | 1,44     | 4,00           | 3,52      | 6,00    | 3,68    |
-| 1 1/2" | 1,60     | 4,96           | 4,16      | 7,44    | 4,64    |
-| 2"     | 1,60     | 5,76           | 4,64      | 8,64    | 4,80    |
-| 2 1/2" | 2,08     | 7,52           | 5,44      | 11,28   | 4,96    |
-| 3"     | 2,56     | 8,32           | 6,08      | 12,48   | 5,76    |
-| 4"     | 3,04     | 10,40          | 7,52      | 15,60   | 7,36    |
-| 6"     | 4,64     | 14,24          | 9,76      | 21,36   | 8,96    |
-| 8"     | 6,08     | 19,20          | 12,32     | 28,80   | 10,56   |
-| 10"    | 7,52     | 23,68          | 16,48     | 35,52   | 16,48   |
-| 12"    | 8,16     | 24,96          | 18,24     | 37,44   | 18,56   |
-| 14"    | 9,60     | 29,60          | 20,00     | 44,40   | 24,16   |
-| 16"    | 10,40    | 32,80          | 23,20     | 49,20   | 29,12   |
-| 18"    | 9,92     | 41,60          | 26,56     | 62,40   | 37,44   |
-| 20"    | 12,00    | 44,00          | 29,60     | 65,60   | 43,68   |
-| 24"    | 14,40    | 47,36          | 35,20     | 71,04   | 58,24   |
-| 30"    | 17,92    | 56,00          | 41,60     | 84,00   | 79,04   |
-| 36"    | 22,40    | 67,20          | 51,20     | 100,80  | 104,00  |
+|Diam	|Caño (m)	|Accesorios (u)	|Brida (u)	|Tee (u)	|Válvula|
+|-------|---------------|---------------|---------------|---------------|-------|
+|1/2"	|1,28	|3,36	|2,88	|5,04	|3,04|
+|3/4"	|1,28	|3,36	|2,88	|5,04	|3,04|
+|1"	|1,44	|4,00	|3,52	|6,00	|3,68|
+|1 1/2"	|1,60	|4,96	|4,16	|7,44	|4,64|
+|2"	|1,60	|5,76	|4,64	|8,64	|4,80|
+|2 1/2"	|2,08	|7,52	|5,44	|11,28	|4,96|
+|3"	|2,56	|8,32	|6,08	|12,48	|5,76|
+|4"	|3,04	|10,40	|7,52	|15,60	|7,36|
+|6"	|4,64	|14,24	|9,76	|21,36	|8,96|
+|8"	|6,08	|19,20	|12,32	|28,80	|10,56|
+|10"	|7,52	|23,68	|16,48	|35,52	|16,48|
+|12"	|8,16	|24,96	|18,24	|37,44	|18,56|
+|14"	|9,60	|29,60	|20,00	|44,40	|24,16|
+|16"	|10,40	|32,80	|23,20	|49,20	|29,12|
+|18"	|9,92	|41,60	|26,56	|62,40	|37,44|
+|20"	|12,00	|44,00	|29,60	|65,60	|43,68|
+|24"	|14,40	|47,36	|35,20	|71,04	|58,24|
+|30"	|17,92	|56,00	|41,60	|84,00	|79,04|
+|36"	|22,40	|67,20	|51,20	|100,80	|104,00|
 
-#### Montaje de Cañería de PVC
+
+#### Montaje de cañería de PVC
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra.
 > - Presentación de las cañerías en el lugar definitivo.
 > - Corte de los caños y biselado de los extremos (si aplica), según los isométricos correspondientes.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
-> - Abolunado, cementado o ensamblado con junta elastica de los accesorios o caños de acuerdo a los procedimientos indicados en cada caso.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
+> - Abolunado, cementado o ensamblado con junta elástica de los accesorios o caños de acuerdo a los procedimientos indicados en cada caso.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
 
@@ -1447,39 +1461,41 @@ Unidad de medida: Unidad (Un) y metros (m).
 
 Estándar “limpio” adoptado (HH/Un) y (HH/m):
 
-| Diam	Caño (m)	Accesorios (u)	Brida (u)	Tee (u)	Valvula
-| 1/2"	0,80	2,10	1,80	3,15	1,90
-| 3/4"	0,80	2,10	1,80	3,15	1,90
-| 1"	0,90	2,50	2,20	3,75	2,30
-| 1 1/2"	1,00	3,10	2,60	4,65	2,90
-| 2"	1,00	3,60	2,90	5,40	3,00
-| 2 1/2"	1,30	4,70	3,40	7,05	3,10
-| 3"	1,60	5,20	3,80	7,80	3,60
-| 4"	1,90	6,50	4,70	9,75	4,60
-| 6"	2,90	8,90	6,10	13,35	5,60
-| 8"	3,80	12,00	7,70	18,00	6,60
-| 10"	4,70	14,80	10,30	22,20	10,30
-| 12"	5,10	15,60	11,40	23,40	11,60
-| 14"	6,00	18,50	12,50	27,75	15,10
-| 16"	6,50	20,50	14,50	30,75	18,20
-| 18"	6,20	26,00	16,60	39,00	23,40
-| 20"	7,50	27,50	18,50	41,00	27,30
-| 24"	9,00	29,60	22,00	44,40	36,40
-| 30"	11,20	35,00	26,00	52,50	49,40
-| 36"	14,00	42,00	32,00	63,00	65,00
+|Diam	|Caño (m)|	Accesorios (u)|	Brida (u)|	Tee (u)|	Válvula|
+|-------|--------|--------------------|----------|-------------|---------------|
+|1/2"	|0,80	|2,10	|1,80	|3,15	|1,90|
+|3/4"	|0,80	|2,10	|1,80	|3,15	|1,90|
+|1"	|0,90	|2,50	|2,20	|3,75	|2,30|
+|1 1/2"	|1,00	|3,10	|2,60	|4,65	|2,90|
+|2"	|1,00	|3,60	|2,90	|5,40	|3,00|
+|2 1/2"	|1,30	|4,70	|3,40	|7,05	|3,10|
+|3"	|1,60	|5,20	|3,80	|7,80	|3,60|
+|4"	|1,90	|6,50	|4,70	|9,75	|4,60|
+|6"	|2,90	|8,90	|6,10	|13,35	|5,60|
+|8"	|3,80	|12,00	|7,70	|18,00	|6,60|
+|10"	|4,70	|14,80	|10,30	|22,20	|10,30|
+|12"	|5,10	|15,60	|11,40	|23,40	|11,60|
+|14"	|6,00	|18,50	|12,50	|27,75	|15,10|
+|16"	|6,50	|20,50	|14,50	|30,75	|18,20|
+|18"	|6,20	|26,00	|16,60	|39,00	|23,40|
+|20"	|7,50	|27,50	|18,50	|41,00	|27,30|
+|24"	|9,00	|29,60	|22,00	|44,40	|36,40|
+|30"	|11,20	|35,00	|26,00	|52,50	|49,40|
+|36"	|14,00	|42,00	|32,00	|63,00	|65,00|
 
 
-#### Montaje de Cañería de Polipropileno (PP)
+#### Montaje de cañería de Polipropileno (PP)
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra.
 > - Presentación de las cañerías en el lugar definitivo.
 > - Corte de los caños y biselado de los extremos (si aplica), según los isométricos correspondientes.
-> - Punteado de los tramos. Ajuste final de los trazados de cañerías.
+> - Punteado de los tramos. 
+> - Ajuste final de los trazados de cañerías.
 > - Roscado o termofusión de los accesorios o caños de acuerdo a los procedimientos indicados en cada caso.
 > - Verificación final.
 > - Retiro de todos los elementos auxiliares de montaje y protección.
@@ -1490,15 +1506,16 @@ Unidad de medida: Unidad (Un) y metros (m).
 
 Estándar “limpio” adoptado (HH/Un) y (HH/m):
 
-Diam	Caño (m)	Accesorios (u)	Brida (u)	Tee (u)	Valvula
-1/2"	1,12	2,94	2,52	4,41	2,66
-3/4"	1,12	2,94	2,52	4,41	2,66
-1"	1,26	3,50	3,08	5,25	3,22
-1 1/2"	1,40	4,34	3,64	6,51	4,06
-2"	1,40	5,04	4,06	7,56	4,20
-2 1/2"	1,82	6,58	4,76	9,87	4,34
-3"	2,24	7,28	5,32	10,92	5,04
-4"	2,66	9,10	6,58	13,65	6,44
+|Diam	|Caño (m)	|Accesorios (u)	|Brida (u)|	Tee (u)|	Valvula|
+|-------|---------------|---------------|---------|------------|-------|
+|1/2"	|1,12	|2,94	|2,52	|4,41	|2,66|
+|3/4"	|1,12	|2,94	|2,52	|4,41	|2,66|
+|1"	|1,26	|3,50	|3,08	|5,25	|3,22|
+|1 1/2"	|1,40	|4,34	|3,64	|6,51	|4,06|
+|2"	|1,40	|5,04	|4,06	|7,56	|4,20|
+|2 1/2"	|1,82	|6,58	|4,76	|9,87	|4,34|
+|3"	|2,24	|7,28	|5,32	|10,92	|5,04|
+|4"	|2,66	|9,10	|6,58	|13,65	|6,44|
 
 
 ### Encamisado de Cañerías
@@ -1507,15 +1524,15 @@ Ver Ductos, Cruces especiales.
 
 ### Revestimiento interno de cañería
 
-Ver ductos, revestimientos.
+Ver Ductos, revestimientos.
 
 ### Válvulas
 
-#### Válvulas Manuales
+#### Válvulas manuales
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y colocación de soportes auxiliares y protecciones si fuera necesario.
 > - Retiro de los materiales del área de almacenamiento a pie de obra.
@@ -1532,57 +1549,58 @@ Unidad de medida: unidad (Un).
 
 Estándar “limpio” adoptado (HH/Un).
 
-Válvulas Bridadas
+Válvulas bridadas
 
-Valvulas	Rating 150#	Rating 300#	Rating 600#	Rating 900#
-Hasta 3/4	3,50	4,00	4,50	4,80
-1	4,30	4,80	5,50	6,00
-1 1/2	5,50	6,20	6,90	7,40
-2	5,70	7,60	8,90	10,20
-2 1/2	5,90	9,20	11,10	13,00
-3	7,00	10,00	12,00	15,00
-4	9,00	11,00	15,00	22,00
-6	11,00	17,00	27,00	45,00
-8	13,00	23,00	35,00	60,00
-10	21,00	32,00	47,00	75,00
-12	23,00	40,00	62,00	-
-14	30,00	52,00	75,00	-
-16	36,00	64,00	88,00	-
-18	47,00	84,00	120,00	-
-20	55,00	100,00	160,00	-
-24	73,00	124,00	205,00	-
-30	100,00	166,00	250,00	-
-36	130,00	200,00	300,00	-
+|Válvulas	|Rating 150#|	Rating 300#|	Rating 600#|	Rating 900#|
+|---------------|-----------|--------------|---------------|---------------|
+|Hasta 3/4|	3,50	|4,00	|4,50	|4,80|
+|1	|4,30	|4,80	|5,50	|6,00|
+|1 1/2	|5,50	|6,20	|6,90	|7,40|
+|2	|5,70	|7,60	|8,90	|10,20|
+|2 1/2	|5,90	|9,20	|11,10	|13,00|
+|3	|7,00	|10,00	|12,00	|15,00|
+|4	|9,00	|11,00	|15,00	|22,00|
+|6	|11,00	|17,00	|27,00	|45,00|
+|8	|13,00	|23,00	|35,00	|60,00|
+|10	|21,00	|32,00	|47,00	|75,00|
+|12	|23,00	|40,00	|62,00	|-|
+|14	|30,00	|52,00	|75,00	|-|
+|16	|36,00	|64,00	|88,00	|-|
+|18	|47,00	|84,00	|120,00	|-|
+|20	|55,00	|100,00	|160,00	|-|
+|24	|73,00	|124,00	|205,00	|-|
+|30	|100,00	|166,00	|250,00	|-|
+|36	|130,00	|200,00	|300,00	|-|
 
 
-Válvulas Soldadas:
+Válvulas soldadas:
 
-Válvulas soldadas
-diametro	hh/u
-0,5	1,00
-0,75	1,50
-1	2,00
-1,5	3,00
-2	4,00
-2,5	5,00
-3	6,00
-4	8,00
-6	12,00
+|Válvulas soldadas diámetro|	HH/Un|
+|--------------------------|--------|
+|0,5	|1,00|
+|0,75	|1,50|
+|1	|2,00|
+|1,5	|3,00|
+|2	|4,00|
+|2,5	|5,00|
+|3	|6,00|
+|4	|8,00|
+|6	|12,00|
 
 
 Para acero al carbono, para otros materiales aplicar factor de corrección por material.
 
-#### Válvulas Motoperadas, válvulas de control y seguridad
+#### Válvulas motoperadas, válvulas de control y seguridad
 
 Ver estándares de Instrumentos.
 
 Para los cuerpos de la válvula aplicar estándares de válvulas manuales si aplica.
 
-### Tratamiento térmico
+### Tratamiento térmico <Badge type="warning" text="7,5 HH/costura" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Transporte de los equipos de tratamiento a zona de trabajo.
 > - Ejecución de tratamiento térmico con por resistencia eléctrica o inducción.
@@ -1593,15 +1611,15 @@ Unidad de medida: Costura.
 
 Estándar “limpio” adoptado (HH/costura).
 
-Estándar por Resistencia eléctrica o inducción 7,5 HH/costura.
+Estándar por resistencia eléctrica o inducción 7,5 HH/costura.
 
-### Ensayos no Destructivos (NDT)
+### Ensayos No Destructivos (NDT)
 
 Se considera como ensayo no destructivo (NDT) a Rayos X, ultrasonidos, ensayos de tinta penetrante, inspección por partículas magnéticas.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y disposición de equipos para ensayos.
 > - Transporte de todos los elementos necesarios para realización del ensayo como ser placa, tinta, partículas, etc.
@@ -1611,46 +1629,48 @@ Tareas a incluir en el relevamiento:
 
 Unidad de medida: Unidad (Un).
 
-Estándar NDT por radiografía 4,5 HH/Un.
+> - Estándar NDT por radiografía 4,5 HH/Un.
 
 Estándar NDT por tinta penetrante (HH/Un):
 
-Φ [Pulg]	hh/u
-De 1/4" a 1"	0,60
-Mayores	a 1" a 2"	0,59
-Mayores	a 3" a 4"	0,72
-Mayores	a 5" a 6"	1,11
-Mayores	a 8" a 10"	1,69
-Mayores	a 12" a 18"	1,95
-Mayores	a 20" a 26"	2,54
-Mayores	a 28" a 32"	2,73
-Mayores	a 34" a 36"	2,80
+|Φ [Pulg]|	HH/Un|
+|--------|-----------|
+|De 1/4" a 1"	|0,60|
+|Mayores	a 1" a 2"|	0,59|
+|Mayores	a 3" a 4"|	0,72|
+|Mayores	a 5" a 6"|	1,11|
+|Mayores	a 8" a 10"|	1,69|
+|Mayores	a 12" a 18"|	1,95|
+|Mayores	a 20" a 26"|	2,54|
+|Mayores	a 28" a 32"|	2,73|
+|Mayores	a 34" a 36"|	2,80|
 
 
 Estándar NDT por Ultrasonido (HH/Un):
 
-Material	Diam	hh/un
-Acero al Carbono y Aleado	6"	3,57
-Acero al Carbono y Aleado	8"	4,25
-Acero al Carbono y Aleado	10"	4,76
-Acero al Carbono y Aleado	12"	5,44
-Acero al Carbono y Aleado	14"	5,95
-Acero al Carbono y Aleado	16"	6,80
-Acero al Carbono y Aleado	18"	7,65
-Acero Inoxidable	6"	7,65
-Acero Inoxidable	8"	9,18
-Acero Inoxidable	10"	10,20
-Acero Inoxidable	12"	11,73
-Acero Inoxidable	14"	12,75
-Acero Inoxidable	16"	14,79
-Acero Inoxidable	18"	16,32
+|Material	|Diam	|HH/Un|
+|---------------|-------|-----|
+|Acero al Carbono y Aleado|	6"|	3,57|
+|Acero al Carbono y Aleado|	8"|	4,25|
+|Acero al Carbono y Aleado|	10"|	4,76|
+|Acero al Carbono y Aleado|	12"|	5,44|
+|Acero al Carbono y Aleado|	14"|	5,95|
+|Acero al Carbono y Aleado|	16"|	6,80|
+|Acero al Carbono y Aleado|	18"|	7,65|
+|Acero Inoxidable|	6"|	7,65|
+|Acero Inoxidable|	8"|	9,18|
+|Acero Inoxidable|	10"|	10,20|
+|Acero Inoxidable|	12"|	11,73|
+|Acero Inoxidable|	14"|	12,75|
+|Acero Inoxidable|	16"|	14,79|
+|Acero Inoxidable|	18"|	16,32|
 
 
 ### Pruebas
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación y disposición de cañerías.
 > - Disposición de equipos y materiales necesarios.
@@ -1668,11 +1688,11 @@ Unidad de medida: Porcentaje (%)
 
 Estándar “limpio” adoptado 7% de las horas de prefabricado.
 
-### Protección anticorrosiva
+### Protección anticorrosiva <Badge type="warning" text="1,5 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales del área de almacenamiento.
 > - Preparación de la superficie para aplicación.
@@ -1689,7 +1709,7 @@ Para protección con primer, ver la especialidad Aislación y Pintura, sección 
 
 Para protección por ánodo de sacrificio o corriente impresa, ver Electricidad sección protección catódica.
 
-## Soportes Piping
+## Soportes piping
 
 ### Prefabricado de soportes de cañerías <Badge type="warning" text="150 HH/Tn" />
 
@@ -1712,20 +1732,20 @@ Estándar “limpio” adoptado: 150 HH/Tn
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales del área de almacenamiento/taller de prefabricado y traslado al lugar de instalación.
 > - Trazado de ejes, para fijar la posición del soporte.
 > - Instalación del soporte.
-> - Verificación de posición y fijación definitiva (Brocas, abulonado o soldadura)
+> - Verificación de posición y fijación definitiva (brocas, abulonado o soldadura)
 
 No incluye transporte de materiales a pie de obra.
 
 Unidad de medida: Toneladas (Tn)
 
-Estándar “limpio” adoptado para soportes: 200 HH/Tn.
+> - Estándar “limpio” adoptado para soportes: 200 HH/Tn.
 
-Estándar “limpio” adoptado para soportes elásticos: 400 HH/Tn.
+> - Estándar “limpio” adoptado para soportes elásticos: 400 HH/Tn.
 
 ## Desmontaje
 
@@ -1739,7 +1759,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 No incluye trabajos de recomposición de edificios, fundación ni reinstalación, etc.
 
-Para los caso de desmontajes de áreas completas se adopta un 70% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
+Para los casos de desmontajes de áreas completas se adopta un 70% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
 
 ### Desmontaje para chatarra
 
@@ -1751,9 +1771,9 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 No incluye disposición final de scrap, trabajos de recomposición de edificios, fundación, etc.
 
-Para los caso de desmontajes de áreas completas se adopta un 40% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
+Para los casos de desmontajes de áreas completas se adopta un 40% del estándar de montaje del elemento, para desmontajes parciales se debe analizar caso por caso.
 
-## Otros trabajos Piping
+## Otros trabajos piping
 
 ### Tie Ins
 
@@ -1772,23 +1792,24 @@ Unidad de medida: unidad (Un).
 
 Estándar “limpio” adoptado: (HH/Un).
 
-Diam	hh/u
-0,5	4,80
-0,75	5,10
-1	5,40
-1,5	5,70
-2	6,00
-3	6,00
-4	8,70
-6	15,30
-8	23,10
-10	32,70
-12	37,50
-14	45,00
-16	51,00
-18	60,00
-20	66,00
-24	76,80
+|Diam	|HH/Un|
+|-------|-----|
+|0,5	|4,80|
+|0,75	|5,10|
+|1	|5,40|
+|1,5	|5,70|
+|2	|6,00|
+|3	|6,00|
+|4	|8,70|
+|6	|15,30|
+|8	|23,10|
+|10	|32,70|
+|12	|37,50|
+|14	|45,00|
+|16	|51,00|
+|18	|60,00|
+|20	|66,00|
+|24	|76,80|
 
 
 ### Hot Taps
@@ -1808,23 +1829,24 @@ Unidad de medida: unidad (Un).
 
 Estándar “limpio” adoptado: (HH/Un).
 
-Diam	hh/u
-0,5	6,40
-0,75	6,80
-1	7,20
-1,5	7,60
-2	8,00
-3	8,00
-4	11,60
-6	20,40
-8	30,80
-10	43,60
-12	50,00
-14	60,00
-16	68,00
-18	80,00
-20	88,00
-24	102,40
+|Diam	|HH/Un|
+|-------|-----|
+|0,5	|6,40|
+|0,75	|6,80|
+|1	|7,20|
+|1,5	|7,60|
+|2	|8,00|
+|3	|8,00|
+|4	|11,60|
+|6	|20,40|
+|8	|30,80|
+|10	|43,60|
+|12	|50,00|
+|14	|60,00|
+|16	|68,00|
+|18	|80,00|
+|20	|88,00|
+|24	|102,40|
 
 
 ## Modificaciones

@@ -29,10 +29,8 @@ export default defineConfig({
           { text: 'Electricidad', link: '/disciplinas/electricidad' },
           { text: 'Instrumentos', link: '/disciplinas/instrumentos' },
           { text: 'Pintura y aislación', link: '/disciplinas/pintura_y_aislacion' },
-          { text: 'Precomisionado', link: '/disciplinas/precomisionado' },
+          { text: 'Precomisionado', link: '/disciplinas/precomisionado' }
 
-          //{ text: 'Explicación', link: '/explicacion' },
-          { text: 'Estandares', link: '/resultado' }
         ]
       }
     ],

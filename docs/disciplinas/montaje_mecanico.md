@@ -2,11 +2,11 @@
 
 ## Montaje de Equipos Estáticos y Recipientes
 
-### Intercambiadores de Calor
+### Intercambiadores de calor
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación del equipo en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -22,7 +22,7 @@ Estándar “limpio” adoptado:
 
 Opción a) Horas totales = HH/Tn por peso del equipo.
 
-|Descripción|	hh/tn|
+|Descripción|	HH/Tn|
 |-----------|--------|
 |Intercambiador hasta 2 tn|	30,00|
 |Intercambiador de 2 a 10 tn	|20,00|
@@ -31,7 +31,7 @@ Opción a) Horas totales = HH/Tn por peso del equipo.
 
 Opción b) Horas totales = HH + HH/Tn por peso del equipo.
 
-|Descripción|	hh|	hh/tn|
+|Descripción|	HH|	HH/Tn|
 |-----------|-----|----------|
 |Montaje a nivel	|75	|7,50|
 |Montaje hasta 4,5 m	|80	|8,00|
@@ -41,7 +41,7 @@ Opción b) Horas totales = HH + HH/Tn por peso del equipo.
 
 Intercambiadores de doble tubo.
 
-|Altura|	hh/Sección|
+|Altura|	HH/Sección|
 |---------|---------------|
 |A nivel|40|
 |En elevación|45|
@@ -50,7 +50,7 @@ Intercambiadores de doble tubo.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de la torre en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -66,7 +66,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción|	hh/tn|
+|Descripción|	HH/Tn|
 |-----------|--------|
 |Columna, peso hasta 3 tn|	25,00|
 |Columna, peso desde 3 tn hasta 7,5 tn	|19,00|
@@ -81,7 +81,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación del reactor en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -89,7 +89,6 @@ Tareas a incluir en el relevamiento:
 > - Instalación del equipo en el lugar definitivo.
 > - La nivelación del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Apriete de los bulones de anclaje.
-
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye montaje de rellenos, colocación de catalizador, vestido ni aislación.
@@ -98,7 +97,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-| Descripción|	Vertical hh/tn|	Horizontal hh/tn|
+| Descripción|	Vertical HH/Tn|	Horizontal HH/Tn|
 |------------|----------------|-----------------|
 |Reactor, peso hasta 3 tn	|20,00	|25,00|
 |Reactor, peso desde 3 tn hasta 7,5 tn	|17,00|	19,00|
@@ -113,7 +112,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación del recipiente en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -129,7 +128,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción|	Vertical hh/tn|	Horizontal hh/tn|
+|Descripción|	Vertical HH/Tn|	Horizontal HH/Tn|
 |-----------|-----------------|-----------------|
 |Recipiente a presión, peso hasta 3 tn	20,00	25,00|
 |Recipiente a presión, peso desde 3 tn hasta 7,5 tn	|17,00|	19,00|
@@ -144,7 +143,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de la torre en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -158,7 +157,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción|	Desarmado hh/tn	|Armado hh/tn|
+|Descripción|	Desarmado HH/Tn	|Armado HH/Tn|
 |-----------|-------------------|------------|
 |Filtros, peso hasta 3 tn	|75,00	|25,00|
 |Filtros, peso desde 3 tn hasta 7,5 tn	|65,00	|19,00|
@@ -168,7 +167,7 @@ Estándar “limpio” adoptado:
 
 Segunda unidad de medida unidad (Un).
 
-|Diamtro (m)|	hh/un|
+|Diamtro (m)|	HH/Un|
 |-----------|--------|
 |0,9|	204,00|
 |1,2|	272,00|
@@ -199,20 +198,18 @@ Tareas a incluir:
 > - Clasificación, identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Traslado al sitio de montaje.
-> - Instalación en el lugar definitivo de las estructuras metálicas (Columnas, vigas, largueros, plataformas, barandas, escaleras, etc.).
-> - Instalación en el lugar definitivo de los equipos de calderería (Laterales, frente, pisos, techo, chimenea, etc.), de acuerdo al programa de trabajo correspondiente.
+> - Instalación en el lugar definitivo de las estructuras metálicas (columnas, vigas, largueros, plataformas, barandas, escaleras, etc.).
+> - Instalación en el lugar definitivo de los equipos de calderería (laterales, frente, pisos, techo, chimenea, etc.), de acuerdo al programa de trabajo correspondiente.
 > - Alineación final de las estructuras.
 > - Apriete de los bulones de anclaje y elementos de fijación.
-> - Colocación de los anclajes, y malla metálica para fijación del hormigón donde corresponda
-(accesorios especiales, chimeneas, etc.).
+> - Colocación de los anclajes, y malla metálica para fijación del hormigón donde corresponda (accesorios especiales, chimeneas, etc.).
 > - Instalación de los soportes para serpentines, con el correspondiente trazado y perforado de los mismos.
 > - Instalación de los serpentines como también los ases de tubos con su correspondiente soldadura.
 > - Instalación de las cañerías exteriores y conductos de gases.
 > - Realización de todas las soldaduras de sello.
 > - Instalación de quemadores, sopladores, válvulas de cierre y demás equipos auxiliares.
-> - Completamiento de todos los servicios auxiliares de control y comando propios del Horno.
-(Conduits, instrumentación, etc.).
-> - Colocación del hormigón refractario Tanto gunitado como colado, con todos los trabajos complementarios (Sellos, pintura de piso, aislaciones especiales, etc.).
+> - Completamiento de todos los servicios auxiliares de control y comando propios del horno (conduits, instrumentación, etc.).
+> - Colocación del hormigón refractario Tanto gunitado como colado, con todos los trabajos complementarios (sellos, pintura de piso, aislaciones especiales, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye vestido, colocación de refractarios, ni aislación.
@@ -221,7 +218,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción	|hh/tn|
+|Descripción	|HH/Tn|
 |--------------|-------|
 |Horno, peso hasta 75 tn|	50,00|
 |Horno, peso desde 75 tn hasta 150 tn	|42,00|
@@ -235,7 +232,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de la torre en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -251,7 +248,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción|	hh/tn|
+|Descripción|	HH/Tn|
 |-----------|--------|
 |Caldera, peso hasta 75 tn|	50,00|
 |Caldera, peso desde 75 tn hasta 150 tn|	42,00|
@@ -265,7 +262,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de la torre en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -283,7 +280,7 @@ Estándar “limpio” adoptado:
 
 Calentadores
 
-|Calentadores|	hh/tn|
+|Calentadores|	HH/Tn|
 |------------|-------|
 |Directos|	40|
 |Indirectos	40|
@@ -294,7 +291,7 @@ Calentadores
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación del flare en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación, colocando las placas de nivelación necesarias.
@@ -316,7 +313,7 @@ Para su estimación se debe tener en cuenta: altura, diámetro, cantidad de tram
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -329,14 +326,14 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción |	hh/tn |
+|Descripción |	HH/Tn |
 |------------|--------|
 |Bomba, peso hasta 200 kg|	165,00|
 |Bomba, peso desde 200 kg hasta 400 kg	|135,00|
@@ -374,7 +371,7 @@ Estándar de montaje por HP (2° unidad de medida).
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -386,16 +383,15 @@ Tareas a incluir en el relevamiento:
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
-
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn)
 
 Estándar “limpio” adoptado, solo para Compresores Monoblock:
 
-|Descripción|HH/tn|
+|Descripción|HH/Tn|
 |-----|----|
 |Compresor monoblock, peso hasta 400 kg|	150,00|
 |Compresor monoblock, peso desde 500 kg hasta 1000 kg|	120,00|
@@ -406,8 +402,7 @@ Unidad de medida: Potencia (HP).
 
 Estándar “limpio” adoptado para Compresores Centrífugos:
 
-
-|Potencia HP|	Para turbina a gas hh/un|
+|Potencia HP|	Para turbina a gas HH/Un|
 |--------|-------|
 |1.000	|2.600|
 |2.000	|3.900|
@@ -459,7 +454,7 @@ Estándar “limpio” adoptado para Compresores Alternativos:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -471,7 +466,7 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Potencia (HP).
@@ -489,7 +484,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -501,7 +496,7 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn).
@@ -512,7 +507,7 @@ Estándar “limpio” adoptado: 35 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -522,10 +517,9 @@ Tareas a incluir en el relevamiento:
 > - Nivelación y control de verticalidad del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
-
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn).
@@ -547,14 +541,14 @@ Tareas a incluir en el relevamiento:
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
 > - Completamiento de sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción	|hh/tn|
+|Descripción	|HH/Tn|
 |---------------|-----|
 |Motor, peso hasta 200 kg	|150,00|
 |Motor, peso desde 300 kg hasta 600 kg|	90,00|
@@ -570,7 +564,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -581,7 +575,7 @@ Tareas a incluir en el relevamiento:
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
 > - Completamiento de sistemas auxiliares (lubricación, enfriamiento, etc.) previo a la alineación final.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Tonelada (Tn).
@@ -590,7 +584,7 @@ Estándar “limpio” adoptado: 40 HH/Tn.
 
 Estándar secundario por potencia.
 
-|Potencia en HP	|hh/un|
+|Potencia en HP	|HH/Un|
 |---------------|-----|
 |Hasta 10|	40,00|
 |Desde 10 hasta 100	|70,00|
@@ -602,13 +596,12 @@ Estándar secundario por potencia.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Traslado al sitio de montaje.
 > - Instalación en el lugar definitivo.
-
 > - Prealineación del equipo, a efectos de poder realizar la presentación de las conexiones de cañerías.
 > - Nivelación y control de verticalidad del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Efectuar el espinado del equipo sobre el bastidor, en los casos que se requiera.
@@ -616,7 +609,7 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Toneladas (Tn).
@@ -627,7 +620,7 @@ Estándar “limpio” entre 70 – 100 HH/Tn. -Revisar caso por caso, utilizar 
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -640,12 +633,12 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 Unidad de medida: Unidades (Un).
 
-Estándar “limpio” adoptado (HH/Un) para Generador accionado por turbina de gas:
+Estándar “limpio” adoptado (HH/Un) para generador accionado por turbina de gas:
 
 |Potencia (KW)	|HH/Un|
 |------------|--------|
@@ -656,7 +649,7 @@ Estándar “limpio” adoptado (HH/Un) para Generador accionado por turbina de 
 |30000|	13.500,00|
 
 
-Estándar “limpio” adoptado (HH/Un) para Generador accionado por motor:
+Estándar “limpio” adoptado (HH/Un) para generador accionado por motor:
 
 |Potencia (KW)|	HH/Un|
 |-------------|------|
@@ -675,7 +668,7 @@ Estándar “limpio” adoptado (HH/Un) para Generador accionado por motor:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -688,7 +681,7 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -696,7 +689,7 @@ Unidad de medida: Toneladas (Tn)
 
 Estándar “limpio” adoptado:
 
-|Aeroenfriadores	|hh/tn|
+|Aeroenfriadores	|HH/Tn|
 |---------|--------|
 |Menos de 2 Ton	|75|
 |Más de 2 Ton	|45|
@@ -708,12 +701,12 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Trazado de ejes principales, secundarios y verificación de verticalidad durante el montaje.
 > - Preparación de soportes auxiliares y elementos necesarios para el montaje.
-> - Armado completo del tanque con todos sus accesorios. (Conexiones, soportes, etc.).
+> - Armado completo del tanque con todos sus accesorios (conexiones, soportes, etc.).
 > - Realización de todas las soldaduras.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -761,7 +754,7 @@ Estándar “limpio” adoptado para Tanques con techo fijo:
 
 Estándar "limpio" adoptado para Tanques Sumideros y Vejigas
 
-|Descripción|	hh/tn|
+|Descripción|	HH/Tn|
 |---------|------|
 |Sumidero|	30|
 |Vejiga	|25|
@@ -771,24 +764,22 @@ Estándar "limpio" adoptado para Tanques Sumideros y Vejigas
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Traslado al sitio de montaje. Descarga de las estructuras.
-> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, en el
-área definida para estas tareas.
+> - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, en el área definida para estas tareas.
 > - Trazado de ejes principales y secundarios, colocación de placas de nivelación.
 > - Instalación de las estructuras en el lugar definitivo.
 > - Verificación del torque en toda la bulonería.
 > - Verificación topográfica de la estructura completa.
 > - Construcción e instalación de los andamios tanto interiores como exteriores a la esfera.
-> - Preparación de los soportes auxiliares necesarios para el montaje. (Orejas, soportes articulados, barras de regulación, chavetas, y todo accesorio utilizado para el montaje).
+> - Preparación de los soportes auxiliares necesarios para el montaje (orejas, soportes articulados, barras de regulación, chavetas, y todo accesorio utilizado para el montaje).
 > - Instalación de las chapas componentes de acuerdo a las instrucciones de montaje.
 > - Realización de todas las soldaduras.
 > - Instalación de los andamios para inspecciones y pruebas.
 > - Completamiento de las uniones tanto abulonadas como soldadas de escaleras y conexiones.
-
 > - Verificación topográfica total.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -798,7 +789,7 @@ Unidad de medida: toneladas (Tn).
 
 Estándar “limpio” adoptado:
 
-|Descripción	|hh/tn|
+|Descripción	|HH/Tn|
 |--------------|-------|
 |Esfera a montar en gajos|	130,00|
 |Esfera prearmada a izar	|35,00|
@@ -808,12 +799,12 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Trazado de ejes principales, secundarios y verificación de verticalidad durante el montaje.
 > - Preparación de soportes auxiliares y elementos necesarios para el montaje.
-> - Armado completo del tanque con todos sus accesorios. (Conexiones, soportes, etc.).
+> - Armado completo del tanque con todos sus accesorios (conexiones, soportes, etc.).
 > - Realización de todas las soldaduras.
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
@@ -825,7 +816,7 @@ Estándar “limpio” adoptado:
 
 Descripción
 
-|Descripción	|hh/tn|
+|Descripción	|HH/Tn|
 |--------|---------|
 |Silos|	60,00|
 |Silos prefabricados|	40,00|
@@ -835,11 +826,10 @@ Descripción
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes Módulos o Skid en el área de almacenamiento (si aplica), previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
-
 > - Traslado al sitio de montaje.
 > - Instalación en el lugar definitivo.
 > - Prealineación del equipo, a efectos de poder realizar la presentación de las conexiones.
@@ -856,9 +846,9 @@ Estándar “limpio” adoptado.
 
 ## Transportadores
 
-### Cintas Transportadoras
+### Cintas transportadoras
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos y elementos en el área de almacenamiento, previo envío al sitio de obra.
 > - Armado de mesas de soporte (si aplica).
@@ -908,7 +898,7 @@ Estándar “limpio” adoptado:
 
 ### Elevador a Cangilones
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos y elementos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -924,7 +914,7 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-|Altura|	Capacidad de carga 50 ton/hr| Capacidad de carga 75 ton/hr| Capacidad de carga 100 ton/hr| Capacidad de carga 200 ton/hr|
+|Altura|	Capacidad de carga 50 Tn/hr| Capacidad de carga 75 Tn/hr| Capacidad de carga 100 Tn/hr| Capacidad de carga 200 Tn/hr|
 |------|------------------------------------|-----------------------------|------------------------------|------------------------------|
 |Hasta 6|	297 hh/un|	324 hh/un|	360 hh/un|	414 hh/un|
 |Desde 6 a 11 metros|	324 hh/un|	378 hh/un|	423 hh/un|	459 hh/un|
@@ -937,7 +927,7 @@ Estándar “limpio” adoptado:
 
 ### Molinos y trituradores
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -973,7 +963,7 @@ Otros estándares:
 |de 151 a 200|	-	|675,00	|-	|-	|1.080,00|
 |de 201 a 300|	-	|810,00	|-	|-	|1.170,00|
 
-|tn/hors|	Molino de bolas: 1/4" |Molino de bolas: 1/2"| Molino de bolas: 3/4"| Molino de bolas: 1 1/2"|
+|Tn/hors|	Molino de bolas: 1/4" |Molino de bolas: 1/2"| Molino de bolas: 3/4"| Molino de bolas: 1 1/2"|
 |------|----------------|------------------------|------------------------|-------------|
 |1	|1.440,00|	900,00|	-|	-|
 |2	|1.926,00	|1.206,00|-	|792,00	|-|
@@ -990,7 +980,7 @@ Otros estándares:
 
 ### Clarificadores
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1021,7 +1011,7 @@ Estándar “limpio” adoptado:
 
 ### Espesadores
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1052,13 +1042,12 @@ Estándar “limpio” adoptado:
 
 ### Evaporadores
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Traslado al sitio de montaje.
 > - Instalación en el lugar definitivo.
-
 > - Prealineación del equipo, a efectos de poder realizar la presentación de las conexiones a sistema de transporte de material.
 > - Nivelación y control de verticalidad del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Alineación final.
@@ -1073,7 +1062,7 @@ Estándar “limpio” adoptado 35 HH/Tn.
 
 ### Secadores
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1093,13 +1082,12 @@ Estándar “limpio” adoptado 35 HH/Tn.
 
 ### Heaters
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Traslado al sitio de montaje.
 > - Instalación en el lugar definitivo.
-
 > - Prealineación del equipo, a efectos de poder realizar la presentación de las conexiones a sistema de transporte de material.
 > - Nivelación y control de verticalidad del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Alineación final.
@@ -1114,7 +1102,7 @@ Estándar “limpio” adoptado 35 HH/Tn.
 
 ### Sistema de flotación <Badge type="warning" text="40 HH/Tn" />
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1140,7 +1128,7 @@ Ver Arquitectura Edificios.
 
 ## Sistema contra incendios
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Manipulación y montaje de los componentes a ensamblar o montar de la red de incendio.
@@ -1152,7 +1140,7 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado:
 
-|Descripción|	hh/un|
+|Descripción|	HH/Un|
 |---------|-----------|
 |Aspersores	|2,00|
 |Instrumentos sistema contra incendio|	ver instrumentos|
@@ -1165,9 +1153,9 @@ Estándar “limpio” adoptado:
 
 ## Equipos de Izaje
 
-### Puente Grúa
+### Puente grúa
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Colocación y nivelación de riel
@@ -1198,7 +1186,7 @@ Estándar “limpio” adoptado (HH/Tn):
 
 ### Montacargas <Badge type="warning" text="60 HH/Tn" />
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1250,7 +1238,7 @@ Para los caso de desmontajes de áreas completas se adopta un 40% del estándar 
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Traslado al sitio de montaje.
@@ -1273,7 +1261,7 @@ Estándar “limpio” adoptado: 250 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes componentes en el área de almacenamiento, previo envío al sitio de obra.
 > - Traslado al sitio de montaje.
@@ -1295,7 +1283,7 @@ Estándar “limpio” adoptado: 25 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1305,9 +1293,8 @@ Tareas a incluir en el relevamiento:
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
-
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye traslado de material hasta pie de obra.
@@ -1320,7 +1307,7 @@ Estándar “limpio” adoptado: 55 HH/Un.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1340,20 +1327,19 @@ Estándar “limpio” adoptado: 35 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
 > - Instalación en el lugar definitivo.
 > - Prealineación del equipo, a efectos de poder realizar la presentación de las conexiones de cañerías.
-
 > - Nivelación y control de verticalidad del equipo, utilizando el instrumental necesario y de acuerdo a la tolerancia que exigen los documentos respectivos.
 > - Efectuar el espinado del equipo sobre el bastidor, en los casos que se requiera.
 > - Alineación final.
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye traslado de material hasta pie de obra.
@@ -1362,11 +1348,11 @@ Unidad de medida: Unidad (Un).
 
 Estándar “limpio” adoptado: 45 HH/Un.
 
-### Montaje de Inyectores y Eyectores <Badge type="warning" text="55 HH/Un" />
+### Montaje de inyectores y eyectores <Badge type="warning" text="55 HH/Un" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación y verificación de los diferentes equipos en el área de almacenamiento, previo envío al sitio de obra.
 > - Limpieza y verificación de los bulones de anclaje, placas y demás elementos de fijación.
@@ -1377,7 +1363,7 @@ Tareas a incluir en el relevamiento:
 > - Apriete de los bulones de anclaje.
 > - Completamiento de las cañerías, y sistemas auxiliares (lubricación, enfriamiento, purgas, etc.) previo a la alineación final.
 > - En los casos que el proveedor lo requiera, se efectuará el desarmado/armado de las partes que se soliciten, para las verificaciones que correspondan.
-> - Carga de lubricantes y completamiento de otros servicios. (Electricidad, instrumentos, etc.).
+> - Carga de lubricantes y completamiento de otros servicios (electricidad, instrumentos, etc.).
 > - Retiro de accesorios de montaje, elementos para rigidización y todo otro dispositivo adicional utilizado para el montaje.
 
 No incluye traslado de material hasta pie de obra.

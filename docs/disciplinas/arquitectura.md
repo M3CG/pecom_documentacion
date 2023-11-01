@@ -6,7 +6,7 @@
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Montaje/realización del cielorraso según plano.
@@ -20,11 +20,12 @@ Estándar “limpio” adoptado: HH/m2.
 |Aplicados | 3,20 |
 |Suspendidos | 7,00 | 
 
+
 ### Albañilería
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
@@ -69,7 +70,7 @@ Estándares “limpios” adoptados para sócalos: HH/m2:
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Colocación y fijación de elementos sanitarios.
@@ -84,7 +85,7 @@ Estándar “limpio” adoptado: 8 HH/Un.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Instalación de puertas y ventanas.
@@ -94,7 +95,7 @@ Unidad de medida: Unidad (Un.)
 
 Estándar “limpio” adoptado: HH/Un.
 
-|Puertas y ventanas |	HH/un |
+|Puertas y ventanas |	HH/Un |
 |-------------------|---------|
 |Ventanas fijas |	2,0 |
 |Ventanas deslizables |	3,0 |
@@ -107,7 +108,7 @@ Estándar “limpio” adoptado: HH/Un.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
@@ -134,7 +135,7 @@ Debido a la complejidad y diversidad de métodos de montaje y elementos disponib
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
@@ -152,7 +153,7 @@ Estándares “limpios” adoptados para mampostería: HH/m2.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales a pie de obra.
 > - Realización de los trabajos según plano.
@@ -170,14 +171,14 @@ Estándares “limpios” adoptados para mampostería: HH/kg.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación de zona a demoler.
 > - Preparación de predio para demoler.
 > - Demolición.
 > - Carga de residuos para su disposición final.
 
-Unidad de medida: Metro cuadrado (m2) y metro cúbico (m3).
+Unidad de medida: metro cuadrado (m2) y metro cúbico (m3).
 
 Estándares “limpios” adoptados para mampostería: HH/m2 y HH/m3.
 

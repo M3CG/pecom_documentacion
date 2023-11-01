@@ -2,7 +2,7 @@
 
 ## Prearmado de Estructura Metálica
 
-### Prearmado de Estructuras Livianas <Badge type="warning" text="28,75 HH/Tn" />
+### Prearmado de estructuras livianas <Badge type="warning" text="28,75 HH/Tn" />
 
 Se clasifica como liviana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que no superen los 30 kg/m.
 
@@ -17,7 +17,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 28,75 HH/Tn.
 
-### Prearmado Estructuras Mediana <Badge type="warning" text="24,50 HH/Tn" />
+### Prearmado estructuras mediana <Badge type="warning" text="24,50 HH/Tn" />
 
 Se clasifica como mediana a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 30 kg/m y 60 kg/m.
 
@@ -31,9 +31,8 @@ No incluye traslado a área de clasificación intermedia.
 Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 24,50 HH/Tn.
-–
 
-### Prearmado Estructuras Pesada <Badge type="warning" text="19,50 HH/Tn" />
+### Prearmado estructuras pesada <Badge type="warning" text="19,50 HH/Tn" />
 
 Se clasifica como pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 kg/m.
 
@@ -48,7 +47,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 19,50 HH/Tn.
 
-### Prearmado Estructuras Extra Pesada <Badge type="warning" text="16,00 HH/Tn" />
+### Prearmado estructuras extra pesada <Badge type="warning" text="16,00 HH/Tn" />
 
 Se clasifica como extra pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal sea mayor a
 120 kg/m.
@@ -82,10 +81,9 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar “limpio” adoptado: 45,00 HH/Tn.
 
-#### Prearmado Plataformas <Badge type="warning" text="40,00 HH/Tn" />
+#### Prearmado plataformas <Badge type="warning" text="40,00 HH/Tn" />
 
-Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión
-(pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de plataformas, sin incluir rejillas
+Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de plataformas, sin incluir rejillas
 (grating)/material desplegado.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
@@ -105,7 +103,7 @@ Estándar “limpio” adoptado: 40,00 HH/Tn.
 Incluye rejillas electrosoldadas, fabricadas en paneles cuadrangulares y curvos, galvanizados en calientes, incluyendo sus fijaciones. No se realiza distinción por tipo/peso.
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.
-–
+
 > - Retiro de los materiales del área de acopio intermedio (área de clasificación de materiales).
 > - Prearmado de los componentes hasta un tamaño compatible con el transporte y/o montaje, incluyendo todas las operaciones de Selección, presentación, marcado, corte, soldadura, abulonado, y chequeo final o liberación para montaje.
 
@@ -193,7 +191,7 @@ Unidad de medida: Toneladas (Tn).
 
 Estándar de referencia Argentina adoptado: 60,00 HH/Tn.
 
-### Montaje Estructura pesada <Badge type="warning" text="40,00 HH/Tn" />
+### Montaje estructura pesada <Badge type="warning" text="40,00 HH/Tn" />
 
 Se clasifica como pesada a las estructuras compuestas por perfiles comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, placas, bulones, etc.) tales que su peso lineal este entre 60 kg/m y 120 Kg/m.
 
@@ -244,8 +242,7 @@ Estándar “limpio” adoptado: 85,00 HH/Tn.
 
 #### Montaje de plataforma <Badge type="warning" text="80,00 HH/Tn" />
 
-Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión
-(pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de plataformas, sin incluir rejillas
+Todos los materiales comerciales de sección redonda, cuadrada, U, L, T, Z, IPE y sus elementos de unión (pernos, bulones, etc.) y planchuelas que se utilicen para la fabricación de plataformas, sin incluir rejillas
 (grating)/material desplegado
 
 Los trabajos comprenden toda la mano de obra necesaria para realizar las tareas indicadas a continuación incluyendo operadores/conductores de equipos.

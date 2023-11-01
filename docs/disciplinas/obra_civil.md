@@ -10,7 +10,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 Se considera el uso de mandriles para los trabajos de doblado.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Cortado y doblado de hierro, según indicaciones especificadas en las planillas de doblado de armadura.
 
@@ -39,7 +39,7 @@ Se considera:
 
 Unidad de medida: Tonelada (Tn).
 
-|Armado y colocación | HH/tn |
+|Armado y colocación | HH/Tn |
 |-------------------|-------|
 |Diámetro menor a 12 mm | 95,00 |
 |Diámetro igual a 12 mm | 80,00| 
@@ -49,7 +49,7 @@ Unidad de medida: Tonelada (Tn).
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de acero corrugado en malla electrosoldada.
 > - Colocación de malla electrosoldada.
@@ -64,7 +64,7 @@ Estándar “limpio” adoptado: 45,00 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de materiales.
 > - Anclajes.
@@ -84,7 +84,7 @@ Estándar “limpio” adoptado: 145,00 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrados de cimientos de estructuras, cimientos de muros, soportes, pedestales etc., incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - Revisión de acuerdo a plano del material requerido según plano.
@@ -94,7 +94,8 @@ Tareas a incluir en el relevamiento:
 > - Desencofrado y retiro.
 > - Limpieza de materiales y área de trabajo, eliminando sobrantes y cualquier otro elemento o sustancia que pueda ser perjudicial.
 
-Nota: Se llama berenjeno a una pieza de sección triangular o trapezoidal, habitualmente fabricada en madera o poliestireno expandido, colocada dentro de un encofrado con la finalidad de achaflanar la construcción resultante.
+Nota: Se llama berenjeno a una pieza de sección triangular o trapezoidal, habitualmente fabricada en madera o poliestireno expandido,
+ colocada dentro de un encofrado con la finalidad de achaflanar la construcción resultante.
 
 Unidad de medida: metro cuadrado (m2).
 
@@ -104,7 +105,7 @@ Estándar “limpio” adoptado: 2,75 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrados de columnas y pedestales, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - Revisión de acuerdo a plano del material requerido según plano.
@@ -122,7 +123,7 @@ Estándar “limpio” adoptado: 3,50 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrados de losas y vigas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - El material será cualquiera que garantice las condiciones requeridas para alcanzar las tolerancias dimensionales de los cimientos y superficie de acabado.
@@ -139,7 +140,7 @@ Estándar “limpio” adoptado: 4,00 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de apuntalamiento de losas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de los postes de apuntalamiento o reapuntalamiento (de madera, aluminio o acero), según corresponda, considerando la distribución de las cargas a soportar.
 > - Retiro a pie de obra de los materiales para la realización del apuntalamiento.
@@ -153,7 +154,7 @@ Estándar “limpio” adoptado: 2,1 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado de madera para tabiques, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Encofrado de muros y tabiques.
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
@@ -194,7 +195,7 @@ Estándar “limpio” adoptado: HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado de referencia, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - Ejecución en la base de construcción de un doble encofrado.
@@ -214,7 +215,7 @@ Estándar “limpio” adoptado 3,60 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado de referencia, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro a pie de obra de los materiales para la realización del encofrado.
 > - Realización de la tongada inicial, la fijación de este primer panel es realizada mediante un anclaje que se ha dejado previamente en la cimentación.
@@ -233,7 +234,7 @@ Estándar “limpio” adoptado: 3,90 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para fundaciones, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia.
@@ -248,7 +249,7 @@ Estándar “limpio” adoptado: 2,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para estructuras elevadas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Bombeo de hormigón.
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
@@ -266,7 +267,7 @@ Estándar “limpio” adoptado: 3,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para paredes, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Bombeo de hormigón.
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
@@ -284,7 +285,7 @@ Estándar “limpio” adoptado: 3,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para cuencos, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia
@@ -299,7 +300,7 @@ Estándar “limpio” adoptado: 3,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para trincheras y ductos, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia
@@ -315,7 +316,7 @@ Estándar “limpio” adoptado: 3,00 HH/m3.
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para fundaciones pequeñas
 (consideradas pequeñas a aquellas fundaciones menores a 2 m3), incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado, nivelación y formación de pendientes y cura, totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia
@@ -330,7 +331,7 @@ Estándar “limpio” adoptado: 3,00 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigón para fundaciones pequeñas sobre hormigón (consideradas pequeñas a aquellas fundaciones del orden de 0,25 m 3 o menores), incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, nivelación y formación de pendientes y cura, totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia
@@ -347,7 +348,7 @@ Estándar “limpio” adoptado: 3,20 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación, sin suministro, de perfiles, placas o piezas metálicas para ser embebidas en el hormigón, en parte o completamente.
 > - Replanteo, piezas de fijación, adhesivos, soldaduras y todos los medios humanos y necesarios para su correcta colocación en tolerancias admisibles.
@@ -363,7 +364,7 @@ Estándar “limpio” adoptado: 150,00 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación, sin suministro, de pernos para ser embebidas en el hormigón, en parte o completamente.
 > - Replanteo, piezas de fijación, adhesivos, soldaduras y todos los medios humanos y necesarios para su correcta colocación en tolerancias admisibles.
@@ -374,13 +375,13 @@ Unidad de medida: Tonelada (Tn).
 
 Estándar “limpio” adoptado: 180,00 HH/Tn.
 
-### Elaboración de Hormigón
+### Elaboración de hormigón
 
 #### Elaboración y transporte de hormigón en planta fija. <Badge type="warning" text="2,50 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de elaboración de hormigón y trasporte desde planta hormigonera, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Elaboración de hormigón en planta hormigonera.
 > - Incluye operadores de planta y conductores de equipos (Camión hormigonero).
@@ -398,7 +399,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas de elaboració
 
 Incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Elaboración de hormigón en planta hormigonera.
 > - Incluye operadores de planta.
@@ -407,13 +408,13 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 1,70 HH/m3.
 
-## Hormigón Proyectado
+## Hormigón proyectado
 
 ### Hormigón proyectado simple <Badge type="warning" text="2,40 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Suministro de hormigón a pie de obra.
 > - El mortero u hormigón proyectado se introduce en el lugar de uso a través de tubos o tuberías selladas resistentes a la alta presión, luego se proyecta y se compacta .
@@ -428,7 +429,7 @@ Estándar “limpio” adoptado: 2,40 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Suministro de hormigón a pie de obra.
 > - Colocación de fibras, (generalmente de acero) y generación de la mezcla.
@@ -443,7 +444,7 @@ Estándar “limpio” adoptado: 2,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas. necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de malla sobre pared a proyectar el hormigón.
 > - Suministro de hormigón a pie de obra.
@@ -460,7 +461,7 @@ Estándar “limpio” adoptado: 3,15 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación del mortero a pie de obra.
 > - Fabricación y colocación de encofrado o guías necesarias para dar la forma diseñada en planos y para su perfecta contención o nivelación.
@@ -477,7 +478,7 @@ Estándar “limpio” adoptado: 65,00 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Suministro de mortero epoxi pre dosificado a pie de obra.
 > - Fabricación y colocación de encofrado o guías necesarias para dar la forma diseñada en planos y para su perfecta contención o nivelación.
@@ -496,7 +497,7 @@ Estándar “limpio” adoptado: 240,00 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Limpieza previa del elemento a ignifugar.
 > - Colocación de malla (dimensiones 50 x 50 x 3 mm).
@@ -517,7 +518,7 @@ Estándar “limpio” adoptado: 15,00 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Limpieza previa de bandeja a ignifugar.
 > - Cortado de placas en taller.
@@ -535,11 +536,11 @@ Estándar “limpio” adoptado: 5,00 HH/m2.
 
 ### Elaboración de premoldeados
 
-#### Armadura para Premoldeados
+#### Armadura para premoldeados
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de acero ya cortado y doblado según indicaciones previas.
 > - Elaboración de armado, y atado, según planos de armadura.
@@ -554,17 +555,17 @@ Unidad de medida: Tonelada (Tn).
 
 Estándar “limpio” adoptado: HH/Tn.
 
-|Armado | HH/tn |
+|Armado | HH/Tn |
 |-------------------|-------|
 |Diámetro menor a 12 mm | 66 |
 |Diámetro igual a 12 mm | 56| 
 |Diámetro mayor a 12 mm | 49 |
 
-#### Encofrado para Premoldeados <Badge type="warning" text="2,10 HH/m2" />
+#### Encofrado para premoldeados <Badge type="warning" text="2,10 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de encofrado para premoldeados, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de los materiales para la realización del encofrado.
 > - Revisión de acuerdo a plano del material requerido según plano.
@@ -582,7 +583,7 @@ Estándar “limpio” adoptado: 2,10 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de colado, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado y formación de pendientes y cura, totalmente terminado.
 
@@ -596,7 +597,7 @@ Estándar “limpio” adoptado: 1,80 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación, sin suministro, de perfiles, placas o piezas metálicas para ser embebidas en el hormigón, en parte o completamente.
 > - Replanteo, piezas de fijación, adhesivos, soldaduras y todos los medios humanos y necesarios para su correcta colocación en tolerancias admisibles.
@@ -612,7 +613,7 @@ Estándar “limpio” adoptado: 105,00 HH/Tn.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Traslado desde pie de obra.
 > - Descenso y colocación.
@@ -630,7 +631,7 @@ Estándar “limpio” adoptado: 6,00 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de material de obturador de fondo.
 > - Toma de juntas por medio de asfalto colado.
@@ -645,7 +646,7 @@ Estándar “limpio” adoptado: 0,20 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de cinta o banda (WaterStop) de P.V.C. para estanqueizacion de juntas de trabajo en estructuras de hormigón a pie de obra.
 > - Colocación de la junta según indicaciones del fabricante.
@@ -664,7 +665,7 @@ Estándar “limpio” adoptado: 0,15 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Traslado del pilote desde el lugar de acopio hacia el pie de hinca. El fabricante deberá disponer ganchos durante la elaboración o indicar puntos de amarre de acuerdo a la geometría del pilote.
 > - Elevación del pilote tomándolo de los puntos previstos para tal fin y presentación del mismo en la torre de hinca.
@@ -680,7 +681,6 @@ No se incluye transporte a pie de obra.
 Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,80 HH/m3.
-–
 
 ### Pilotes In-Situ
 
@@ -688,7 +688,7 @@ Estándar “limpio” adoptado: 2,80 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación de pilotes.
 > - Materialización del centro del pilote con piquetes o estacas clavadas al terreno según replanteo topográfico.
@@ -709,7 +709,7 @@ Estándar “limpio” adoptado: 1,50 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de acero.
 > - Cortado y doblado de hierro, según indicaciones especificadas en las planillas de doblado de armadura.
@@ -723,13 +723,12 @@ Nota: Se considera la utilización de una grúa o equipo de izaje apropiado para
 Unidad de medida: Tonelada (Tn).
 
 Estándar “limpio” adoptado: 110 HH/Tn.
-–
 
 #### Hormigonado <Badge type="warning" text="2,50 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas de hormigonado de pilotes, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Vertido, extensión, vibrado y nivelación totalmente terminado.
 > - Limpieza de áreas de trabajo eliminando sobrantes y cualquier otro elemento o sustancia
@@ -752,13 +751,13 @@ Estándar “limpio” adoptado: 32,00 HH/m3.
 
 La realización de pavimentos está contemplada en los apartados "Pavimentos de hormigón" y "Pavimentos bituminosos".
 
-## Cañeros Eléctricos
+## Cañeros eléctricos
 
 ### Cañeros <Badge type="warning" text="1,95 HH/m." />
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Vertido de hormigón de limpieza.
@@ -777,7 +776,7 @@ Estándar “limpio” adoptado: 1,95 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación.
 > - Vertido de hormigón de limpieza.
@@ -798,7 +797,7 @@ Estándar “limpio” adoptado: 1,65 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Demolición de hormigón a mano, mediante martillo neumático.
 > - Limpieza y retiro del material del lugar de trabajo hasta pie de obra.
@@ -811,7 +810,7 @@ Estándar “limpio” adoptado: 30 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Demolición de hormigón a máquina.
 > - Limpieza y retiro del material del lugar de trabajo hasta pie de obra

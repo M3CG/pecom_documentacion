@@ -4,7 +4,7 @@
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Limpieza del terreno en la superficie y a las cotas determinadas en los planos.
 > - Retirada de tierras, escombros, basura o cualquier elemento indeseable.
@@ -26,7 +26,7 @@ Se contempla la utilización de equipos simil CAT 966 y Motoniveladora.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo operadores/conductores de equipos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a cielo abierto ejecutada en cualquier clase de terreno, excepto roca, y a cualquier profundidad, para conseguir las cotas de explanada general o rasante de explanación indicadas en los planos.
 
@@ -48,7 +48,7 @@ Estándar “limpio” adoptado: 0,03 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Cava y aflojamiento del suelo, dejando el mismo junto a la excavación realizada. Este será manual.
 > - El suelo se ha supuesto no rocoso.
@@ -72,7 +72,7 @@ Estándar “limpio” adoptado: 2,25 HH/m3.
 
 La excavación en roca para fundaciones con compresor y martillo, comprende las tareas de remoción de roca, por medio de equipos, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Aflojamiento de la roca, que se ha supuesto de tipo granítica, por voladura con explosivo de seguridad en barrenos perforados.
 > - El material volado se extrae del sitio y se lo carga sobre camión.
@@ -94,7 +94,7 @@ Estándar “limpio” adoptado:
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación de fundación, en cualquier clase de terreno, excepto roca, realizada por debajo de explanada de los planos, cuya dimensión menor en planta sea igual o mayor a 2 m.
 > - Se utilizará cualquier sistema de excavación, tipo de maquinaria y mano de obra utilizada.
@@ -118,7 +118,7 @@ Estándar “limpio” adoptado: 0,25 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Aflojamiento de la roca, que se ha supuesto de tipo granítica, por voladura con explosivo de seguridad en barrenos perforados.
 > - El material volado se extrae del sitio y se lo carga sobre camión.
@@ -133,13 +133,13 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 0.80 HH/m3.
 
-### Excavación Subterránea
+### Excavación subterránea
 
-#### Excavación Subterránea por voladura <Badge type="warning" text="2,54 HH/m3" />
+#### Excavación subterránea por voladura <Badge type="warning" text="2,54 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Perforación.
 > - Colocación de explosivos.
@@ -149,11 +149,11 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,54 HH/m3.
 
-### Excavación de Zanjas y Trincheras
+### Excavación de zanjas y trincheras
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación en zanjas y trincheras realizadas por debajo de las cotas de explanada de los planos.
 > - Utilización de cualquier sistema de excavación, tipo de maquinaria y mano de obra utilizada.
@@ -176,7 +176,7 @@ Estándar “limpio” adoptado:
 
 ## Relleno
 
-### Relleno General <Badge type="warning" text="0,09 HH/m3" />
+### Relleno general <Badge type="warning" text="0,09 HH/m3" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -184,7 +184,7 @@ Esta partida incluye la colocación del suelo establecido en las condiciones té
 
 Este estándar se asume con una compactación en capas no mayores a 0,2 metros de espesor con equipos compactadores con peso estático adecuado a las especificaciones.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Formación de relleno con material procedente de excavación o acopios de obra.
 > - Preparación de la superficie de asiento del relleno, eliminando toda clase de objeto o material suelto, escarificando y compactando.
@@ -208,7 +208,7 @@ Esta partida incluye la colocación del suelo establecido en las condiciones té
 
 Este estándar se asume con una compactación en capas no mayores a 0,2 metros de espesor con equipos compactadores con peso estático adecuado a las especificaciones.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Formación de relleno con material procedente de excavación o acopios de obra.
 > - Preparación de la superficie de asiento del relleno, eliminando toda clase de objeto o material suelto, escarificando y compactando.-
@@ -235,7 +235,7 @@ Esta tarea incluye la colocación del suelo establecido en las condiciones técn
 
 Este estándar se asume con una compactación en capas no mayores a 0,2 metros de espesor con equipos compactadores con peso estático adecuado a las especificaciones.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Desparramo, relleno y compactación para fundaciones.
 > - Se consideran fundaciones de 1,5m x 1,5m x 1 m.
@@ -257,7 +257,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 Este estándar se asume con una compactación en capas no mayores a 0,2 metros de espesor con equipos compactadores vibratorios.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Formación de relleno en zanjas o trincheras, con material procedente de excavación o acopios de obra.
 > - Preparación de la superficie de asiento del relleno, eliminando toda clase de objeto o material suelto, escarificando y compactando.
@@ -269,8 +269,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye:
 
-> - Provisión de la Tosca.
-
+> - Provisión de la tosca.
 > - Bombeo de la zona que se rellena, si hubiese filtraciones.
 
 Unidad de medida: metro cúbico (m3).
@@ -283,7 +282,7 @@ Comprende toda la mano de obra necesaria para realizar las tareas indicadas a co
 
 Esta tarea incluye la colocación del suelo establecido en las condiciones técnicas del proyecto a compactar con un contenido de humedad cercano a la humedad óptima, obtenida en un ensayo Proctor estándar o modificado en laboratorio, según corresponda.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Desparramo, relleno y compactación para zanjas y trincheras.
 > - La compactación se realizará a mano, con pisón mecánico.
@@ -295,7 +294,7 @@ Tareas a incluir en el relevamiento:
 
 No incluye:
 
-> - Provisión de la Tosca.
+> - Provisión de la tosca.
 > - Bombeo de la zona que se rellena, si hubiese filtraciones.
 
 Unidad de medida: metro cúbico (m3).
@@ -313,7 +312,7 @@ Para este estándar se considera:
 > - La tongada está constituida por materiales de distinta granulometría, donde se adoptarán las medidas necesarias para crear entre ellos una superficie continua de separación.
 > - Los trabajos se realizarán de forma que se evite la contaminación de la grava mediante finos.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Refino para alcanzar la cota de coronación, dentro de las tolerancias admisibles.
 > - Refino de aristas y vértices.
@@ -328,7 +327,7 @@ Estándar “limpio” adoptado: 0,07 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de reconstitución del suelo vegetal, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Reconstitución del suelo vegetal.
 > - Nivelación del terreno.
@@ -343,7 +342,7 @@ Estándar “limpio” adoptado: 0,05 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Relleno con arena para base de tanque, con placa vibratoria.
 
@@ -355,12 +354,11 @@ Estándar “limpio” adoptado: 1.25 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Formación de terraplén con material tipo seleccionado procedente de excavación, acopios de obra o aportación.
 > - Preparación de la superficie de asiento del terraplén, eliminando toda clase de objetos o material suelto, escarificando y compactando.
 > - Utilización de equipos mecánicos y riego.
-
 > - Humectación adecuada por medio de riego.
 > - Extendido en capas de espesor 20 cm.
 > - Compactación para obtener el grado adecuado (95% Proctor).
@@ -379,7 +377,7 @@ Se contempla la utilización de los siguientes equipos: Motoniveladora, compacta
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Formación de base con tosca.
 > - Preparación de la superficie de asiento.
@@ -402,7 +400,7 @@ Estándar “limpio” adoptado: 0,10 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de canto rodado o grava, considerando las pendientes y niveles establecidos en los planos.
 > - Distribución del material en capas de 5 cm de espesor.
@@ -420,7 +418,7 @@ Se contempla la utilización de los siguientes equipos: motoniveladora y rodillo
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Rotura de bolsas de cementos para la realización de la mezcla.
 > - Realización de la mezcla, colocación y compactación de suelo cemento, conformadas de acuerdo a las pendientes y niveles establecidos en los planos.
@@ -436,11 +434,11 @@ Estándar “limpio” adoptado: 0,11 HH/m2.
 
 Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo neumático y regador.
 
-### SubBase suelo cemento desde planta <Badge type="warning" text="0,05 HH/m2" />
+### Subbase suelo cemento desde planta <Badge type="warning" text="0,05 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Realización de la mezcla, colocación y compactación de suelo cemento, conformadas de acuerdo a las pendientes y niveles establecidos en los planos.
 > - Humectación adecuada por medio de riego.
@@ -459,7 +457,7 @@ Se contempla la utilización de: motoniveladora, rodillo neumático, regador y p
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación del área.
 > - Distribución del suelo seleccionado.
@@ -480,7 +478,7 @@ Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo 
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación del área
 > - Distribución de la tosca.
@@ -501,7 +499,7 @@ Se contempla la utilización de los siguientes equipos: motoniveladora, rodillo 
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de la mezcla de concreto asfaltico.
 > - Distribución uniforme de la mezcla en una capa de 5 cm de espesor.
@@ -522,7 +520,7 @@ Dicha actividad comprende toda la mano de obra necesaria para realizar las tarea
 
 Se consideran pavimentos rígidos (de hormigón) a los integrados por una capa (losa) de concreto de cemento que se apoya en una capa de base, la cual descansa sobre una base de suelo compactado llamada subrasante.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de malla.
 > - Distribución del hormigón, que se considera a pie el área a pavimentar, sobre camión hormigonero.
@@ -539,7 +537,7 @@ Estándar “limpio” adoptado: 3,75 HH/m2.
 
 Se consideran a los pavimentos articulados a los compuestos por una capa de rodadura que está elaborada con bloques de concreto prefabricados, llamados adoquines, de espesor uniforme elaborados entre sí. Esta puede ir ubicada sobre una capa delgada de arena, la cual a su vez, se apoya sobre una capa de base granular, o directamente sobre la subrasante, dependiendo de la calidad de esta y de las magnitudes frecuencia de las cargas que circulan por dicho pavimento.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Distribución y compactación de capa de arena de 7 cm de espesor.
 > - Colocación de los bloques de hormigón.
@@ -555,7 +553,7 @@ Estándar “limpio” adoptado: 5,5 HH/m2.
 
 Se denomina cordón cuneta a la zanja o canal que se abre a los costados del camino y que debido a su menor nivel recibe las aguas pluviales y las conduce hacia un lugar que no produzcan inundaciones.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de moldes.
 > - Armadura de vinculación.
@@ -573,7 +571,7 @@ Estándar “limpio” adoptado: 3,75 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de moldes.
 > - Armadura de vinculación.
@@ -588,10 +586,9 @@ Estándar “limpio” adoptado: 2,50 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material de pie de obra.
-
 > - Aplicación de capa de arena, si corresponde.
 > - Tendido de cañerías de desagües, de hormigón, PVC u otro.
 > - Colocación de loseta de protección, si aplica.
@@ -615,7 +612,7 @@ Estándar “limpio” adoptado: HH/m y HH/m3.
 |Hormigón premoldeado para embocadura | m3 | 6,0 |
 |Cama de arena | m3 | 1,3 |
 
-### Pavimentos Bituminosos <Badge type="warning" text="2,00 HH/m2" />
+### Pavimentos bituminosos <Badge type="warning" text="2,00 HH/m2" />
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de la tarea.
 
@@ -627,7 +624,7 @@ Los pavimentos bituminosos son más impermeables que los pavimentos de hormigón
 
 Los pavimentos bituminosos tienen la ventaja de una puesta en obra muy rápida que permite su utilización en un corto espacio de tiempo - a diferencia del hormigón, que tiene un plazo de fraguado más largo y que no obtiene la totalidad de sus prestaciones hasta transcurrido un mínimo de 21 días.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de la mezcla sobre la base ya compactada.
 > - Compactación de la mezcla por medio de rodillo liso.
@@ -644,7 +641,7 @@ Estándar “limpio” adoptado: 2,00 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material de pie de obra.
 > - Anclado de pretiles en suelo (mínimo 1 metro) o en fundaciones.
@@ -652,6 +649,7 @@ Tareas a incluir en el relevamiento:
 > - Colocación y fijado de guard-rail propiamente dicho.
 
 No incluye
+
 > - Transporte de materiales a pie de obra.
 
 Unidad de medida: metro lineal (m).
@@ -667,7 +665,7 @@ Estándar “limpio” adoptado: HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material de pie de obra.
 > - Colocación de soportes.
@@ -686,7 +684,7 @@ Estándar “limpio” adoptado: 0,80 HH/Un.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material de pie de obra.
 > - Colado de hormigón in situ o instalación de dados premoldeados.
@@ -727,7 +725,7 @@ Se debe analizar caso por caso según planos.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para la realización de dicha tarea.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Espera durante la carga de volquete.
 > - Transporte hasta destino.
@@ -749,22 +747,22 @@ Para la estimación del rendimiento de transporte se deben tener en cuenta los s
 > - Factor de compactación = fc
 > - Eficiencia por hora = Ef
 
-AGREGAR IMAGEN
+IMAGEN
 
 Rendimiento por hora de viaje ɳ [H/m3]:
 
-AGREGAR IMAGEN
+IMAGEN
 
 Para el cálculo de HH, se debe multiplicar el Rendimiento por la cuadrilla involucrada en el transporte
 (chofer más proporción de banderilleros asociados a cada camión y cualquier otro operario involucrado en la tarea).
 
 ## Defensas
 
-### Armado de Gaviones <Badge type="warning" text="2,90 HH/m3" />
+### Armado de gaviones <Badge type="warning" text="2,90 HH/m3" />
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar la tarea indicada a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material.
 > - Conformado y armado de malla.
@@ -781,11 +779,11 @@ Unidad de medida: metro cúbico (m3).
 
 Estándar “limpio” adoptado: 2,90 HH/m3.
 
-### Instalación de Gaviones <Badge type="warning" text="1,47 HH/m3" />
+### Instalación de gaviones <Badge type="warning" text="1,47 HH/m3" />
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar la tarea indicada a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material.
 > - Verificación y liberación de zona.
@@ -802,7 +800,7 @@ Estándar “limpio” adoptado: 1,47 HH/m3.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar la tarea indicada a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Extensión del geotextil, sobre el terreno a tratar.
 
@@ -816,7 +814,7 @@ Dicha actividad comprende toda la mano de obra necesaria para realizar la tarea 
 
 Para el cálculo de este estándar se consideran rollos de 2,5 metros de ancho.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación de la geomembrana, sobre el terreno a tratar.
 
@@ -828,7 +826,7 @@ Estándar “limpio” adoptado: 0,08 HH/m2.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Perforación.
 > - Colocación de sistema de bombeo.
@@ -847,7 +845,7 @@ Estándar “limpio” adoptado: 0,56 HH/m3.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Verificación de las pendientes adecuadas.
@@ -866,7 +864,7 @@ Estándar “limpio” adoptado: 1,4 HH/ml.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Verificación de las pendientes adecuadas.
@@ -885,7 +883,7 @@ Estándar “limpio” adoptado: 1,4 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -905,7 +903,7 @@ Estándar “limpio” adoptado: 0,90 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -927,7 +925,7 @@ Estándar “limpio” adoptado: 0,80 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -947,7 +945,7 @@ Estándar “limpio” adoptado: 1,00 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -967,7 +965,7 @@ Estándar “limpio” adoptado: 0,90 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -987,7 +985,7 @@ Estándar “limpio” adoptado: 1,60 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -1007,7 +1005,7 @@ Estándar “limpio” adoptado: 1,80 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de capa de arena para asiento de la tubería.
@@ -1027,7 +1025,7 @@ Estándar “limpio” adoptado: 0.90 HH/m.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de hormigón de limpieza.
@@ -1045,7 +1043,7 @@ Estándar “limpio” adoptado: 2,00 HH/unid.
 
 Comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Excavación a máquina con perfilado a mano.
 > - Colocación de hormigón de limpieza.
@@ -1064,7 +1062,7 @@ Estándar “limpio” adoptado: 20,00 HH/unid.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de colocación de marco y tapa de hierro fundido, para cámaras de drenaje, incluyendo el personal y herramientas necesarias para su realización.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Colocación del marco sobre la cámara.
 > - Sujeción del marco.
@@ -1086,7 +1084,7 @@ Este estándar se detalla en la especialidad Mecánica.
 
 Comprende toda la mano de obra necesaria para realizar las tareas de clasificación de áridos, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Movimiento de material bruto dentro del área de clasificación.
 > - Procesamiento por equipos y dispositivos de clasificación (tamices, zarandas, etc.).
@@ -1108,7 +1106,7 @@ Estándar “limpio” adoptado: No existe, se debe calcular caso por caso tenie
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Perforación.
 > - Preparación de mortero.
@@ -1125,7 +1123,7 @@ Estándar “limpio” adoptado: 0,46 HH/m.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Perforación.
 > - Colocación de caño de PVC.
@@ -1140,7 +1138,7 @@ Estándar “limpio” adoptado: 1,10 HH/m.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Retiro de material a pie de obra.
 > - Perfilado de la roca.
@@ -1159,7 +1157,7 @@ Estándar “limpio” adoptado: 43,40 HH/kg.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Perforación.
 > - Inyección del cemento.
@@ -1176,7 +1174,7 @@ Estándar “limpio” adoptado: 2,97 HH/Tn.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar la tarea indicada a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Identificación de zona a demoler.
 > - Preparación de predio para demoler.
@@ -1197,7 +1195,7 @@ Estándar “limpio” adoptado: HH/m2.
 
 Dicha actividad comprende toda la mano de obra necesaria para realizar las tareas indicadas a continuación, incluyendo el personal y herramientas necesarias.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Preparación del terreno (rastrillaje, excavación y relleno para forestación).
 > - Colocación de abono.
@@ -1219,7 +1217,7 @@ Estándar “limpio” adoptado: 0,60 HH/m2.
 
 Se definen como tablestacados metálicos las paredes formadas por tablestacas metálicas que se hincan en el terreno, para constituir, debidamente enlazadas, pantallas de impermeabilización o resistencia, con carácter provisional o definitivo.
 
-Tareas a incluir en el relevamiento:
+Tareas a incluir:
 
 > - Hincado de las tablestacas por medio de mazas de golpeo, a presión o mediante aparatos vibratorios.
 > - Terminada la hinca, se cortarán, si es preciso, las tablestacas, de manera que sus cabezas queden alineadas según el perfil definido.

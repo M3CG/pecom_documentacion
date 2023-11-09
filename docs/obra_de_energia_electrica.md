@@ -18,4 +18,7 @@ features:
         title: Arquitectura
         link: /disciplinas/arquitectura
 
+    -   icon: <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" width="24" height="24"><defs><style>.cls-6376396cc3a86d32eae6f107-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}</style></defs><circle class="cls-6376396cc3a86d32eae6f107-1" cx="12" cy="7.29" r="0.94"></circle><path class="cls-6376396cc3a86d32eae6f107-1" d="M8.68,10.61A4.7,4.7,0,0,1,8.68,4"></path><path class="cls-6376396cc3a86d32eae6f107-1" d="M15.32,4a4.7,4.7,0,0,1,0,6.64"></path><path class="cls-6376396cc3a86d32eae6f107-1" d="M6,13.27A8.45,8.45,0,0,1,6,1.32"></path><path class="cls-6376396cc3a86d32eae6f107-1" d="M18,1.32a8.45,8.45,0,0,1,0,12"></path><line class="cls-6376396cc3a86d32eae6f107-1" x1="16.7" y1="22.32" x2="12.25" y2="8.2"></line><line class="cls-6376396cc3a86d32eae6f107-1" x1="11.75" y1="8.2" x2="7.3" y2="22.32"></line><line class="cls-6376396cc3a86d32eae6f107-1" x1="14.82" y1="16.68" x2="9.18" y2="16.68"></line><line class="cls-6376396cc3a86d32eae6f107-1" x1="5.43" y1="22.32" x2="18.57" y2="22.32"></line></svg>
+        title: Montaje electromecánico
+        link: /disciplinas/montaje_electromecanico
 ---

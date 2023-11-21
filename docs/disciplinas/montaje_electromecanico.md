@@ -52,7 +52,19 @@ No incluye:
 
 Valores de referencia:
 
-AGREGAR Tabla 1 “EQUIPOS DE PLAYA INTEMPERIE”
+![asdfasd](/public/images/montaje_electromecanico/equipos_de_playa_interperie.png)
+
+Valores de referencia para un nivel de tensión de 500 KV
+
+|DESCRIPCIÓN|UNIDAD|PESO UNIT KG	|HH/UNIDAD	|KG/HH	|
+|-----------|------|----------------|-----------|-------|
+|INTERRUPTOR TRIPOLAR| u|  12.500| 370|33,78| 
+|SECCIONADOR TRIPOLAR con PAT (PP ó FI)|u|3.500|340|10,29|
+|SECCIONADOR TRIPOLAR sin PAT (PP ó FI)|u|2.800|330|8,48| 
+|DESCARGADOR SOBRETENSION|u|650| 20| 32,50| 
+|TRANSFORMADOR DE MEDICION|u|2.700|50|54,00| 
+|AISLADOR SOPORTE|u|400|12| 33,33|
+
 
 ### Morseria de interconexión de equipos y barras
 

@@ -13,7 +13,7 @@ export default defineConfig({
       { text: 'Inicio', link: '/' },
       // { text: 'Guia', link: '/guia' },
       { text: 'Estandares', link: '/disciplinas/movimiento_de_suelos' },
-      { text: 'Planificación', link: '/planificacion' }
+      // { text: 'Planificación', link: '/planificacion' }
     ],
 
     sidebar: [

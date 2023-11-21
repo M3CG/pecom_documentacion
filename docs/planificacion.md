@@ -18,4 +18,18 @@ Es preciso hablar con el personal correspondiente para juntar esta información.
 > - Personal de oficina tecnica
 > - Supervisores
 
-En caso que todavia no se haya hecho, debe crear una carpeta compartida online para todo el personal de oficina en la obra
+En caso que todavia no se haya hecho, debe crear una carpeta compartida online para todo el personal de oficina en la obra. Esto con fin de tener todos los archivos compartidos y la información a mano para todo el personal de oficina.
+
+### Seguimiento del plroyecto
+
+Para comprender la trayectoria que tiene un proyecto es importante conocer:
+> - Avance teorico publicado en la pagina de estandares
+> - Avance previsto en la planificación inicial
+> - Avance real registrado dia a dia
+
+Para registrar el avance diario la propuesta recomendada consta de lo siguiente:
+
+- Creación de un proyecto en google sheets. Se usa en vez de Excel ya que tiene una mejor sincronización online, control de versiones y conectividad con otras aplicaciones.
+- Creación de un formulario en la aplicación "Fields" de Voolks, tomando de referencia al "parte modelo". Consultar a Mario E. Colombres Garmendia
+
+Con esto cumplido somos capaces de vincular sheets con Fields para recibir actualizaciones de los formularios rellenados por los supervisores directamente en nuestras hojas de calculo. 

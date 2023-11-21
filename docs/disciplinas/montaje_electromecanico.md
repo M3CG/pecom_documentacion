@@ -52,8 +52,6 @@ No incluye:
 
 Valores de referencia:
 
-![asdfasd](/public/images/montaje_electromecanico/equipos_de_playa_interperie.png)
-
 Valores de referencia para un nivel de tensión de 500 KV
 
 |DESCRIPCIÓN|UNIDAD|PESO UNIT KG	|HH/UNIDAD	|KG/HH	|

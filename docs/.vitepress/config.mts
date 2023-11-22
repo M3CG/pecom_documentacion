@@ -47,7 +47,7 @@ export default defineConfig({
 
     footer: {
       message: 'El contenido de esta página está licenciado bajo la Licencia MIT.',
-      copyright: 'Copyright © 2023 - Mario E. Colombres Garmendia para Pecom'
+      // copyright: 'Copyright © 2023 - Mario E. Colombres Garmendia para Pecom'
     },
 
     // aside: 'left',
